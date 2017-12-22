@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 title: Tanu Kumar
 description: PhD Candidate in Political Science
 author:
+
+navbar-links:
+  CV: "http://clickmeterlink.com/utix"
+  Email: "tkumar08@gmail.com"
+  
+footer-links-active:
+  github: false
