@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /CV/
+order: 2
 ---
 
 Please find a copy of my CV [here](http://clickmeterlink.com/utix).
