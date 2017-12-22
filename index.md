@@ -1,4 +1,4 @@
-<img src="tkumar012.github.io/pic.JPEG" alt="hi" class="inline" width="50%" height="50%" align="middle"/>
+<img src="tkumar012.github.io/pic.JPEG" alt="hi" class="inline" align="middle"/>
 
 Welcome! I am a PhD Candidate in Political Science at the University of California, Berkeley. I am interested in the determinants of political, economic, and social behavior of individuals living in developing countries, particularly India. I also have an active interest in statistics and research methodology.
 
