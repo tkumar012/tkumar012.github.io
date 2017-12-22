@@ -7,3 +7,5 @@ navbar-links:
   CV: "http://clickmeterlink.com/utix"
   Email: "tkumar08@gmail.com"
   
+footer-links-active:
+  github: false
