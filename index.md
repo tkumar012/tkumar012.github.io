@@ -3,7 +3,16 @@ layout: page
 title: Welcome!
 order: 1
 ---
+<center>
+<img src="tkumar012.github.io/image1.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
+<<<<<<< HEAD:index.md
+<img src="tkumar012.github.io/IMG_1402.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img src="tkumar012.github.io/image4.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;">
+<center/>
 
 I am a PhD Candidate in Political Science at the University of California, Berkeley. I am interested in the determinants of political, economic, and social behavior of individuals living in developing countries, particularly India. I also have an active interest in statistics and research methodology.
 
