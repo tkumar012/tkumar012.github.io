@@ -4,11 +4,11 @@ title: Welcome!
 order: 1
 ---
 
-<img src="tkumar012.github.io/image1.JPEG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="tkumar012.github.io/image1.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
-<img src="tkumar012.github.io/IMG_1402.JPEG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="tkumar012.github.io/IMG_1402.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
-<img src="tkumar012.github.io/image4.JPEG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="tkumar012.github.io/image4.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <p style="clear: both;">
 
