@@ -20,10 +20,7 @@ I am a PhD Candidate in Political Science at the University of California, Berke
 
 My dissertation project seeks to understand the role of property ownership in the political behavior of low-income residents of Mumbai, Maharashtra. This project has been generously supported by the [J-PAL Governance Initiative](https://www.povertyactionlab.org/GI), the [Weiss Family Program Fund in Development Economics](https://projects.iq.harvard.edu/wfrde), and the [Institute of International Studies at UC Berkeley](https://iis.berkeley.edu).
 
-Additionally, I am working on projects involving water intermittency in Bangalore, attitudes towards quotas in Uttar Pradesh,  and the relationship between power and cluster size in cluster-randomized experiments. 
+Additionally, I am working on projects involving water intermittency in Bangalore and attitudes towards quotas in Uttar Pradesh. 
 
 I am also an avid distance runner and endurance eater. 
 
-<center>
-<img src="tkumar012.github.io/pic.JPEG" alt="hi" class="inline" height= "50%" width="50%" align="middle"/>
-<center/>
