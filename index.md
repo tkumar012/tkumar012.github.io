@@ -24,3 +24,7 @@ Additionally, I am working on projects involving water intermittency in Bangalor
 
 I am also an avid distance runner and endurance eater. 
 
+
+<center>
+<img src="tkumar012.github.io/pic2.JPEG" alt="hi" class="inline" height= "50%" width="50%" align="middle"/>
+<center/>
