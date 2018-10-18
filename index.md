@@ -18,9 +18,7 @@ order: 1
 
 I am a PhD Candidate in Political Science at the University of California, Berkeley. I am interested in the determinants of political, economic, and social behavior of individuals living in developing countries, particularly India. I also have an active interest in statistics and research methodology.
 
-My dissertation project seeks to understand the role of property ownership in the political behavior of low-income residents of Mumbai, Maharashtra. This project has been generously supported by the [J-PAL Governance Initiative](https://www.povertyactionlab.org/GI), the [Weiss Family Program Fund in Development Economics](https://projects.iq.harvard.edu/wfrde), and the [Institute of International Studies at UC Berkeley](https://iis.berkeley.edu).
-
-Additionally, I am working on projects involving water intermittency in Bangalore and attitudes towards quotas in Uttar Pradesh. 
+My dissertation project seeks to understand how social assistance programs fundamentally change the way in which individuals make demands of the government, and how these changes affect incentives to adopt social assistance programs. In particular, I study the political effects of an affordable housing program in Mumbai, Maharashtra, and seek to understand how these effects explain local-level adoption of a nation-wide housing program. This project has been generously supported by the [J-PAL Governance Initiative](https://www.povertyactionlab.org/GI), the [Weiss Family Program Fund in Development Economics](https://projects.iq.harvard.edu/wfrde), and the [Institute of International Studies at UC Berkeley](https://iis.berkeley.edu).
 
 I am also an avid distance runner and endurance eater. 
 
