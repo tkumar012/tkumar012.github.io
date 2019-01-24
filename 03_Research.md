@@ -7,17 +7,13 @@ order: 3
 
 ## Peer Reviewed Publications
  
-**Kumar, T., Post, A., and Ray, I. "Flows, Leaks, and Blockages in Informational Interventions: A Field Experimental Study of Bangalore's Water Sector." *World Development* 106: 149-160, 2018.**
-
-[Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGlzb25lcG9zdHxneDo2MjRlMWRiZDNlYzJlNWRl) and [data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN)
+**Kumar, T., Post, A., and Ray, I. "Flows, Leaks, and Blockages in Informational Interventions: A Field Experimental Study of Bangalore's Water Sector." *World Development* 106: 149-160, 2018.** ([Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGlzb25lcG9zdHxneDo2MjRlMWRiZDNlYzJlNWRl) and [data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN))
  
  *Abstract*: Many policies and programs based on informational interventions hinge upon the assumption that providing citizens with information can help improve the quality of public services, or help citizens cope with poor services. We present a causal framework that can be used to identify leaks and blockages in the information production and dissemination process in such programs. We conceptualize the “information pipeline” as a series of connected nodes, each of which constitutes a possible point of blockage. We apply the framework to a field-experimental evaluation of a program that provided households in Bangalore, India, with advance notification of intermittently provided piped water. Our study detected no impacts on household wait times for water or on how citizens viewed the state, but found that notifications reduced stress. Our framework reveals that, in our case, noncompliance among human intermediaries and asymmetric gender relations contributed in large part to these null-to-modest results. Diagnostic frameworks like this should be used more extensively in development research to better understand the mechanisms responsible for program success and failure, to identify subgroups that actually received the intended treatment, and to identify potential leaks and blockages when replicating existing programs in new settings.
  
 ## Working Papers
 
-**"Welfare beneficiaries participate in local politics: the effects of affordable housing in Mumbai"**
-
-[Paper](http://clickmetertracking.com/x8we)
+**"Welfare beneficiaries participate in local politics: the effects of affordable housing in Mumbai"** ([Paper (http://clickmetertracking.com/x8we))
 
 *Abstract*: How do welfare policies affect political participation among beneficiaries in developing countries? I argue that beneficiaries are motivated to take part in local politics to improve services that affect the real value of the benefits. I support the argument with a study of affordable housing, a welfare program that is common in India. I present a natural experiment in which I tracked down and surveyed 834 winners and applicants of multiple affordable housing lotteries in Mumbai. I find that winning a home increases reported voting and complaint-making to improve neighborhoods, improvements that that will increase the value of the homes. Increases in reported action also occur among those who do not move into the new homes, but rent them out instead. This reported behavior is accompanied by actual increases in knowledge about local politics. Finally, I show that in Mumbai, a city with bureaucratic systems for addressing complaints, citizen demands can successfully improve the quality of certain services. The findings suggest that through the channel of increased civic participation, social welfare policies can increase citizen agency over local government.
 
