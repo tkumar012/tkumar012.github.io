@@ -17,6 +17,8 @@ order: 3
 
 **"Welfare beneficiaries participate in local politics: the effects of affordable housing in Mumbai"**
 
+[Paper](http://clickmetertracking.com/x8we)
+
 *Abstract*: How do welfare policies affect political participation among beneficiaries in developing countries? I argue that beneficiaries are motivated to take part in local politics to improve services that affect the real value of the benefits. I support the argument with a study of affordable housing, a welfare program that is common in India. I present a natural experiment in which I tracked down and surveyed 834 winners and applicants of multiple affordable housing lotteries in Mumbai. I find that winning a home increases reported voting and complaint-making to improve neighborhoods, improvements that that will increase the value of the homes. Increases in reported action also occur among those who do not move into the new homes, but rent them out instead. This reported behavior is accompanied by actual increases in knowledge about local politics. Finally, I show that in Mumbai, a city with bureaucratic systems for addressing complaints, citizen demands can successfully improve the quality of certain services. The findings suggest that through the channel of increased civic participation, social welfare policies can increase citizen agency over local government.
 
 
