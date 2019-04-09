@@ -13,7 +13,7 @@ order: 3
  
 ## Working Papers
 
-**"Welfare programs increase participation in local politics: the effects of affordable housing in Mumbai"** ([Paper](https://www.dropbox.com/s/o2q7b4m4ybn9907/March%2025.pdf?dl=0))
+**"Welfare programs increase participation in local politics: the effects of affordable housing in Mumbai"** ([Paper](https://www.dropbox.com/s/o2q7b4m4ybn9907/March%2025.pdf?dl=0))(under review)
 
 *Abstract*:  How do welfare programs affect beneficiaries' local political activity in developing countries? Many welfare programs are implemented by local governments and entail sustained delivery to, or use by, beneficiaries. I argue that recipients are therefore motivated to participate in local politics to protect the quality of benefits over time. I support the argument with a natural experiment wherein I interviewed 834 applicants of subsidized home price lotteries in Mumbai, India. In this case, I predict that beneficiaries will protect their housing welfare benefits by seeking to improve the neighborhoods in which lottery apartments are located. Winning an apartment increases both reported political participation to improve neighborhoods and knowledge about local politics. Winners who choose to rent out the apartments also report taking action to improve neighborhoods. The study highlights both the electoral and non-electoral political effects of programmatic policies and causes of civic participation among diverse groups.
 
