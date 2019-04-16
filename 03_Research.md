@@ -14,7 +14,7 @@ order: 3
 
 **"Welfare programs increase participation in local politics: the effects of affordable housing in Mumbai"** ([Paper](https://www.dropbox.com/s/o2q7b4m4ybn9907/March%2025.pdf?dl=0))(under review)
 
-**"From public service access to service quality: The distributive politics of piped water in Bangalore" with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray (under review)**
+**"From public service access to service quality: The distributive politics of piped water in Bangalore"**  with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray (under review)
 
 **"The effects of subsidized assets for sale: Evidence from an affordable housing program in Mumbai."**([Paper](https://www.dropbox.com/s/j6g72fgsftnt2nk/Draft%203.pdf?dl=0))
 
