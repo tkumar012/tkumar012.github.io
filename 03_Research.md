@@ -16,6 +16,5 @@ order: 3
 
 **"From public service access to service quality: The distributive politics of piped water in Bangalore"**  with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray ([Paper](https://watson.brown.edu/southasia/files/southasia/imce/events/Spring2018/Postetal.intermittency4.20.pdf)) (under review)
 
-**"Transferring wealth: the welfare effects of an affordable housing program in Mumbai."** ([Paper](https://www.dropbox.com/s/gpu6409g9g7fple/Draft%204.pdf?dl=0))
 
 
