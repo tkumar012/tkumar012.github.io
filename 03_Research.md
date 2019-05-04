@@ -12,10 +12,10 @@ order: 3
 
 ## Working Papers
 
-**"Welfare programs increase participation in local politics: the effects of affordable housing in Mumbai"** ([Paper](https://www.dropbox.com/s/1p1m5z2ii95btwt/Kumar%20welfare%20politicsMarch%2025.pdf?dl=0))
+**"Welfare programs increase participation in local politics: the effects of affordable housing in Mumbai"** ([Paper](Participation.pdf))
 
 **"From public service access to service quality: The distributive politics of piped water in Bangalore"**  with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray ([Paper](https://watson.brown.edu/southasia/files/southasia/imce/events/Spring2018/Postetal.intermittency4.20.pdf)) (under review)
 
-**"Transferring wealth: the welfare effects of an affordable housing program in Mumbai."** ([Paper](https://www.dropbox.com/s/gpu6409g9g7fple/Draft%204.pdf?dl=0))
+**"Transferring wealth: the welfare effects of an affordable housing program in Mumbai."** ([Paper](Wealth.pdf))
 
 
