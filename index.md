@@ -25,6 +25,6 @@ You can pronounce my name THUH-noo or tuh-NOO (like "canoe"), your preference.
 
 I am also an avid distance runner and endurance eater. 
 
-<img src="tkumar012.github.io/pic.JPEG" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="tkumar012.github.io/pic.JPEG" ,align="middle">
 
 
