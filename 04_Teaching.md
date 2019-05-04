@@ -5,7 +5,7 @@ permalink: /Teaching/
 order: 4
 ---
 
-As a teacher, my main focus is always establishing intuition for foundational concepts. I believe this approach both facilitates learning beyond the duration of any course and caters to varying levels of prior exposure to a topic. 
+As a teacher, my main focus is always establishing intuition for foundational concepts. I believe this approach facilitates learning even after a course is over and also caters to varying levels of prior exposure to a topic. 
 
 # Courses taught as a graduate student instructor (GSI) at UC Berkeley
 
