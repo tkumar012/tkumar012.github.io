@@ -5,6 +5,8 @@ permalink: /Teaching/
 order: 4
 ---
 
+As a teacher, my main focus is always establishing intuition for foundational concepts. I believe this approach both facilitates learning and self-teaching beyond the duration of any course and caters to a varying levels of prior exposure to a topic. 
+
 # Courses taught as a graduate student instructor (GSI) at UC Berkeley
 
 **Graduate**
