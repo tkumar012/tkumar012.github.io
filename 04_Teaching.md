@@ -9,7 +9,7 @@ order: 4
 
 **Graduate**
 
-Quantitative Analysis in Political Research - Graduate Student Instructor for Professor Joel Middleton, Fall 2018 ([Course evaluations (tkumar012.github.io/PS231Aevals.pdf))
+Quantitative Analysis in Political Research - Graduate Student Instructor for Professor Joel Middleton, Fall 2018 ([Course evaluations (PS231Aevals.pdf))
 
 **Undergraduate**
 
