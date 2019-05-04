@@ -11,7 +11,7 @@ As a teacher, my main focus is always establishing intuition for foundational co
 
 **Graduate**
 
-Quantitative Analysis in Political Research - Graduate Student Instructor for Professor Joel Middleton, Fall 2018 ([Course evaluations](PS231Aevals.pdf))
+Quantitative Analysis in Political Research - Graduate Student Instructor for Professor Joel Middleton, Fall 2018 
 
 **Undergraduate**
 
