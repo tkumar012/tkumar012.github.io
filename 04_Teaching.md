@@ -5,13 +5,13 @@ permalink: /Teaching/
 order: 4
 ---
 
-## Courses taught as a graduate student instructor (GSI) at UC Berkeley
+# Courses taught as a graduate student instructor (GSI) at UC Berkeley
 
-# Graduate
+**Graduate**
 
-Quantitative Analysis in Political Research - Graduate Student Instructor for Professor Joel Middleton, Fall 2018 
+Quantitative Analysis in Political Research - Graduate Student Instructor for Professor Joel Middleton, Fall 2018 ([Course evaluations (tkumar012.github.io/PS231Aevals.pdf))
 
-# Undergraduate
+**Undergraduate**
 
 Writing and Research in South Asian Politics - Teaching Assistant for Professor Pradeep Chhibber responsible for instructing students in R programming, Spring 2016, 2019
 
