@@ -8,6 +8,11 @@ order: 3
 ## Peer-reviewed Publications
  
 **Kumar, T., Post, A., and Ray, I. "Flows, Leaks, and Blockages in Informational Interventions: A Field Experimental Study of Bangalore's Water Sector." *World Development* 106: 149-160, 2018.** ([Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGlzb25lcG9zdHxneDo2MjRlMWRiZDNlYzJlNWRl) and [data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN))
+
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
  
 
 ## Working Papers
