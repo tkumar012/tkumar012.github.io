@@ -42,6 +42,15 @@ Infrastructure services such as water, electricity, and mass transit are central
 This paper uses original survey data from a housing lottery in Mumbai to examine the household-level effects of the subsidized sale of housing to lower-middle class families 3-5 years after program implementation. The intervention consists of a wealth transfer realized, for some, through a stream of housing benefits. Beneficiaries can also rent out or eventually sell the housing to receive in-kind or lump sum benefits. The program leads individuals to express greater optimism about the future and increases educational attainment, particularly at the secondary and post-secondary levels. Effects on educational attainment occur in spite of the fact that winners live in areas with poorer school quality and lower levels of literacy, and also translate into higher rates of employment. This is among the first studies of the effects of the subsidized sale of an asset in a developing country. 
 </details>  
  <br/><br/>  
+ 
+ 
+ ["Preferences for Descriptive Representation: Asymmetries Between Hindus and Muslims in India."](http://sekhon.berkeley.edu/papers/cks_public.pdf) with Pradeep Chhibber and Jasjeet Sekhon
+
+<details>
+  <summary>Abstract</summary>
+
+Do minorities have a preference for descriptive representation? We address this question in India, a deeply religious society that has experienced extensive conflict between its Hindu majority and Muslim minority populations. Existing studies of preferences in such settings tend to attribute vote choice to strategic behavior by voters and parties. But because an election is a strategic context, voting outcomes usually reveal not the ideal preferences of voters, but rather their preferences mediated through a political and institutional context. Our research instead seeks to reveal ideal preferences through multiple experiments in diverse strategic settings in India. We find that within and across state lines, Muslims express a preference for co-religious candidates, but Hindus do not. Our findings support the idea that minorities may have a preference for descriptive representation even when it is not strategic to vote for coethnic or co-religious candidates.</details>  
+ <br/><br/>  
   
 
 
