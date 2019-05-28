@@ -11,7 +11,7 @@ I will post working papers here as they become available. I will also post all d
  
 [Kumar, T., Post, A., and Ray, I. "Flows, Leaks, and Blockages in Informational Interventions: A Field Experimental Study of Bangalore's Water Sector." *World Development* 106: 149-160, 2018.](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGlzb25lcG9zdHxneDo2MjRlMWRiZDNlYzJlNWRl) 
 
-([Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN))
+[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN)
 <details>
   <summary>Abstract</summary>
 Under what circumstances might providing citizens with information compensate for unreliable public services? We present a field-experimental evaluation of a program that provided households in Bangalore with advance notification of intermittently provided piped water. The implementers expected that increasing service predictability would reduce wait times for water, reduce costs related to waiting, and improve citizen-state relationships. As many citizens did not receive accurate information, our study detected no impacts on household wait times for water or state-citizen relations. Nonetheless, our study suggests that notifications about water timing reduced stress, especially among low income populations. These findings indicate that greater attention should be paid to both psychological outcomes and the information production and dissemination chain in information interventions. We introduce a causal framework for analyzing “information pipelines” to enable such efforts.
