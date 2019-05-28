@@ -5,6 +5,8 @@ permalink: /Research/
 order: 3
 ---
 
+I will post working papers here as they become available. I will also post all data and code for publications here. Feel free to email me to ask about works in progress and to check on the possibility of sharing data for working papers. 
+
 ## Peer-reviewed Publications
  
 [Kumar, T., Post, A., and Ray, I. "Flows, Leaks, and Blockages in Informational Interventions: A Field Experimental Study of Bangalore's Water Sector." *World Development* 106: 149-160, 2018.](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGlzb25lcG9zdHxneDo2MjRlMWRiZDNlYzJlNWRl) ([Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN))
