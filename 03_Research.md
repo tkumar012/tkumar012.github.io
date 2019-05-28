@@ -5,7 +5,7 @@ permalink: /Research/
 order: 3
 ---
 
-I will post working papers here as they become available. I will also post all data and code for publications here. Feel free to email me to ask about works in progress and to check on the possibility of sharing data for working papers. 
+I will post working papers here as they become available. I will also post all data and code for publications. Feel free to email to ask about works in progress and to check on the possibility of sharing data for working papers. 
 
 ## Peer-reviewed Publications
  
