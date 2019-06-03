@@ -39,11 +39,11 @@ Infrastructure services such as water, electricity, and mass transit are central
 </details>  
 <br/><br/>   
   
-["Transferring wealth: the welfare effects of an affordable housing program in Mumbai."](Draft 4.pdf)
+(Updated draft coming soon.)
 
 <details>
   <summary>Abstract</summary>
-This paper uses original survey data from a housing lottery in Mumbai to examine the household-level effects of the subsidized sale of housing to lower-middle class families 3-5 years after program implementation. The intervention consists of a wealth transfer realized, for some, through a stream of housing benefits. Beneficiaries can also rent out or eventually sell the housing to receive in-kind or lump sum benefits. The program leads individuals to express greater optimism about the future and increases educational attainment, particularly at the secondary and post-secondary levels. Effects on educational attainment occur in spite of the fact that winners live in areas with poorer school quality and lower levels of literacy, and also translate into higher rates of employment. This is among the first studies of the effects of the subsidized sale of an asset in a developing country. 
+This paper uses original survey data from a housing lottery in Mumbai to examine the household-level effects of a widespread policy, the subsidized sale of housing to working class families. The intervention consists of a wealth transfer realized, for some, through a stream of housing benefits. Beneficiaries can also rent out or eventually sell the housing to receive cash or lump-sum benefits. Three to five years after implementation, beneficiaries express greater optimism about the future, have slightly more individualistic attitudes, and higher levels of educational attainment, particularly at the secondary and post-secondary levels, than non-beneficiaries. Effects on educational attainment occur in spite of the fact that winners live in areas with poorer school quality and lower levels of literacy. Contrary to fears that unearned income decreases labor supply, the intervention also increases rates of employment, particularly among older children. The large and positive effects suggest greater attention be paid to an extremely common policy that remains virtually unstudied. 
 </details>  
  <br/><br/>  
  
