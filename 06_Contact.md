@@ -7,7 +7,7 @@ order: 6
 
 
 
-<img src="picture.jpeg"  height="200">
+<img src="picture.jpeg">
 
 
 Email: tkumar08@gmail.com
