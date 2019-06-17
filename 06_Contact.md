@@ -7,9 +7,9 @@ order: 6
 
 
 
-<img src="picture.jpeg">
+<img src="picture.jpeg" height="200"/>
 
 
-Email: tkumar08@gmail.com
+Email: tkumar[at]@gmail[dot]com
 
 Twitter: @tanu_kumar1
