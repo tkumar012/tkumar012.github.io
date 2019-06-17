@@ -1,5 +1,6 @@
 theme: minima
 markdown: kramdown
+title: Tanu Kumar
 
 header_pages:
   - 02_CV.md

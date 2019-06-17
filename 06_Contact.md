@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 order: 6
 ---
-<p align="center">
+<p align="left">
 <img src="pic2.jpeg"  height="200">
 </p>
 
