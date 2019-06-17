@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /Research/
+title: Papers
+permalink: /Papers/
 order: 3
 ---
 

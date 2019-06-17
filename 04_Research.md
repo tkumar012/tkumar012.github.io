@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Dissertation 
-permalink: /Dissertation/
-order: 5
+title: Research 
+permalink: /Research/
+order: 4
 ---
 
 My research seeks to understand the origins and consequences of civic engagement in low- and middle-income countries, particularly India. Much of the literature on politics here focuses mainly on electoral behavior and preferences; nevertheless, citizens everywhere routinely engage in everyday local political activity including complaint-making, negotiation with bureaucrats, and even participation in planning and budgeting processes. When and why will they do so, and how do their actions affect governance?
