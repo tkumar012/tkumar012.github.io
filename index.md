@@ -15,7 +15,6 @@ order: 1
 </script>
 
 
-![image-right](pic2.jpeg){: .align-right}
 
 I am a PhD Candidate in Political Science at the University of California, Berkeley. I am interested in the determinants of political, economic, and social behavior of individuals living in developing countries, particularly India. I also have an active interest in statistics and research methodology, particularly surrounding issues of field-based research and experiments.
 
@@ -24,6 +23,7 @@ My dissertation project seeks to understand how welfare programs in developing c
 You can pronounce my name THUH-noo or tuh-NOO (like "canoe"), your preference.
 
 I am also an avid distance runner and endurance eater. 
+
 
 
 

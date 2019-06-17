@@ -1,15 +1,12 @@
 theme: minima
 markdown: kramdown
-title: Tanu Kumar
-description: PhD Candidate in Political Science
-email: tkumar@berkeley.edu
-twitter_username: tanu_kumar1
 
 header_pages:
   - 02_CV.md
   - 03_Papers.md
   - 04_Research.md
   - 05_Teaching.md
+  - 06_Contact.md
 
   
 
