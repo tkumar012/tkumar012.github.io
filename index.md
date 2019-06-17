@@ -22,7 +22,7 @@ My dissertation project seeks to understand how welfare programs in developing c
 
 
 
-<img src="pic2.jpeg" alt="Smiley face" height="42" width="42">
+<img src="pic2.jpeg">
 
 
 
