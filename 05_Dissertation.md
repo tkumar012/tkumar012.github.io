@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertation and future research
+title: Dissertation 
 permalink: /Dissertation/
 order: 5
 ---
@@ -11,7 +11,7 @@ My dissertation project first seeks to understand causes of local-level politica
 
 My work is based on rigorous quantitative methodology, fieldwork, and primary data collection, all of which have been made possible by my extensive training in statistics and research design. Nevertheless, field-based research routinely raises new challenges in measurement, implementing interventions, and understanding mechanisms. Addressing these problems forms another important strand of my research agenda. 
 
-## Dissertation 
+### Dissertation 
 
  
 My dissertation, titled “Building civic engagement through redistribution: The sustained political and economic effects of social welfare on households in India,” explores how India’s many welfare programs affect local-level political participation. Existing literature, seeking to explain motivations for creating programs such as cash transfers and employment guarantees, has focused primarily on whether they generate electoral rewards for implementers. Yet everyday political participation, such as complaint-making and negotiation with bureaucrats and politicians, remains a cornerstone of political behavior in low- and middle-income countries. Where officials have an incentive to be responsive, this activity can lead to real improvements in governance and service provision at the local level. 
@@ -24,14 +24,14 @@ In line with the theory, these programs also affect beneficiaries’ political b
 
 After establishing the micro-foundations of my argument, I test it on two other welfare programs in India, the National Social Assistance Program (NSAP, a pension program for the elderly and disabled), and Rashtriya Swasthya Bima Yojana (RSBY, a health insurance program for the poor). I use two waves of nationally representative household survey and a differences-in-differences strategy to look at the effects of NSAP on reported local political participation. Finally, my argument operates under the scope condition that while policies may be unevenly implemented, benefits do eventually reach citizens and change their economic outcomes. I use the same panel of household-level survey data and another difference-in-differences strategy to explore the economic and political effects of RSBY, a program that has largely failed to help its intended beneficiaries due to poor targeting and problems with insurance markets. 
 
-## Future extensions 
+### Future extensions 
 
 
 For my future work, I plan to investigate how increased civic engagement actually affects governance and service provision.  Existing research tends to highlight elite capture and coethnic favoritism when discussing patterns of service allocation; during my time in India, I learned that while such patterns may exist, motivated citizens can effectively place pressure on bureaucrats and local representatives to respond to their demands. To systematically study this phenomenon, I will use qualitative evidence from fieldwork in urban and rural parts of India to illustrate what local level political participation looks like for an average citizen. I will also include a depiction of both citizens’ and officials’ perceptions of when and how governments respond to complaints. I will complement this qualitative work with text analyses of minutes from village meetings and an original dataset I have collected of every public complaint made in Mumbai over the course of five years alongside government responses to these complaints. 
 
 Another portion of this agenda will address the role of welfare programs in the monitoring of corruption. The dissertation project suggests that some citizens, namely welfare beneficiaries, may care more about local-level corruption than others. Recently, several have investigated (with mixed results) the effectiveness of many interventions providing citizens with information on corruption on a variety of outcomes, including turnout, vote choice, and monitoring. I am currently working on an empirical project that will reanalyze several of these experiments and tests whether treatment effects are particularly strong among welfare beneficiaries.  
 	
-## Research on methodology 
+### Research on methodology 
 
 
 These substantive research projects aside, my experience with field-based and experimental research have and will continue to motivate projects on research methodology. For example, Alison Post, Isha Ray, and I were motivated by an information based- field experiment to write a tutorial (published in World Development) on how to ensure that information-based field interventions reach their intended beneficiaries. Another paper with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray, highlights the importance of collecting data about the boundaries of local units of service distribution when trying to understand the factors that vary with public service quality in urban India. Yet another working paper with Pradeep Chhibber and Jasjeet Sekhon highlights the role of multiple case selection when trying to learn about the electoral preferences of different groups. In a current project inspired by trying to disentangle mechanisms in my dissertation project, I claim that mechanisms in experiments are missing data problems and discuss concrete ways to approach this challenge.
