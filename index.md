@@ -22,7 +22,7 @@ My dissertation project seeks to understand how welfare programs in developing c
 
 
 <center>
-![Kumar](pic2.jpeg)
+![](pic2.jpeg)
 </center>
 
 You can pronounce my name THUH-noo or tuh-NOO (like "canoe"), your preference.
