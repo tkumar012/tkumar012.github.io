@@ -24,7 +24,4 @@ You can pronounce my name THUH-noo or tuh-NOO (like "canoe"), your preference.
 
 I am also an avid distance runner and endurance eater. 
 
-<p align="center">
-<img src="picture.jpeg"  height="200">
-</p>
 

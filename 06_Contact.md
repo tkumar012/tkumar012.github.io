@@ -7,6 +7,9 @@ order: 6
 
 
 
+<p align="center">
+<img src="picture.jpeg"  height="200">
+</p>
 
 
 
