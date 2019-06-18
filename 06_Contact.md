@@ -8,7 +8,7 @@ order: 6
 
 
 <p align="left">
-<img src="https://github.com/tkumar012/tkumar012.github.io/blob/master/picture.jpeg?raw=true"  height="200">
+<img src="assets/picture.jpeg"  height="200">
 </p>
 
 
