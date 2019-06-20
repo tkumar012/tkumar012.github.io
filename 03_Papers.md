@@ -19,7 +19,7 @@ Under what circumstances might providing citizens with information compensate fo
  <br/><br/>    
 ## Working Papers
 
-["Welfare programs and local political participation: the effects of affordable housing in Mumbai"](Participation.pdf)(under review)
+["Welfare programs and local political participation: the effects of affordable housing in Mumbai"](ParticipationJune18.pdf)(under review)
 <details>
   <summary>Abstract</summary>
 How do welfare programs affect beneficiaries' local political activity in developing countries? Many welfare programs are implemented by local governments and entail benefits that are continuously delivered to or used by citizens over time. I argue that recipients are therefore motivated to participate in local politics to protect the quality of benefits. I support the argument with a natural experiment consisting of interviews of 834 applicants of subsidized home price lotteries in Mumbai, India. In this case, I predict that beneficiaries will protect their housing welfare benefits by demanding improvements to the neighborhoods in which lottery apartments are located. Winning an apartment increases both reported political participation to improve neighborhoods and knowledge about local politics. Winners who choose to rent out the apartments also report taking action to improve neighborhoods. The study highlights both the electoral and non-electoral political effects of programmatic policies and causes of civic participation among diverse groups.  
