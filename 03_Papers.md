@@ -19,7 +19,7 @@ Under what circumstances might providing citizens with information compensate fo
  <br/><br/>    
 ## Working Papers
 
-["Welfare programs and local political participation: evidence from policies in India"](Coming soon)
+"Welfare programs and local political participation: evidence from policies in India" (Coming soon)
  
  <br/><br/>   
 ["From public service access to service quality: The distributive politics of piped water in Bangalore"](https://watson.brown.edu/southasia/files/southasia/imce/events/Spring2018/Postetal.intermittency4.20.pdf) with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray (under review)
