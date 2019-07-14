@@ -16,7 +16,7 @@ order: 1
 
 
 
-<p align="right">
+<p align="left">
 
 <img src="picture.jpeg"  height="200">
 
