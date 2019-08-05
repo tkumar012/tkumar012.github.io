@@ -19,7 +19,10 @@ Under what circumstances might providing citizens with information compensate fo
  <br/><br/>    
 ## Working Papers
 
-"The feedback effects of welfare programs on local civic action: evidence from affordable housing in Mumbai" (Coming soon)
+["The feedback effects of welfare programs on local civic action: evidence from affordable housing in Mumbai"](July8_2019.pdf)
+<details>
+  <summary>Abstract</summary>
+  How do welfare programs affect beneficiaries' political activity to improve local services in middle- and low-income countries? Research on "policy feedback" in the United States shows that resources delivered by programs simultaneously increase recipients' capacity for action and motivate them to protect these resources. In countries that have witnessed a devolution of government responsibilities, civic action at the local-level may be particularly relevant to protecting or improving welfare benefits. I study the effects of a common welfare policy, namely subsidizing homeownership, with a natural experiment consisting of interviews of 834 applicants of subsidized home price lotteries in Mumbai, India. Winning an apartment increases both reported political participation to improve neighborhoods and knowledge about local politics. Winners who choose to rent out the apartments also report taking action to improve lottery apartment neighborhoods. I claim that the main mechanisms for these effects are changes in winners' attitudes and an increased interest in improving local communities. Supported by evidence from existing work, I suggest that other welfare policies that provide beneficiaries with streams of resources may have similar effects. This study highlights the existence of policy feedback effects and the importance of studying local civic action in developing countries.</details>  
  <br/><br/>  
 
 ["The intergenerational effects of subsidizing homeownership: evidence from a program in Mumbai"](IntergenerationalJun25.pdf)(under review)
