@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Dissertation 
+title: Book project 
 permalink: /Research/
 order: 4
 ---
 
 My research seeks to understand the origins and consequences of civic engagement in low- and middle-income countries, particularly India. Much of the literature on politics in developing countries focuses mainly on electoral behavior and preferences; nevertheless, a small but emerging body of work has shown that citizens routinely engage in everyday local political activity including complaint-making, negotiation with bureaucrats, and even participation in planning and budgeting processes. When and why will they do so?
 
- My dissertation project examines how welfare policies in India affect local-level political participation. Indian central, state, and local governments routinely deploy an expansive array of welfare programs including pensions, food subsidies, employment guarantees, and affordable housing.  Existing literature on the political effects of such policies in India and elsewhere has focused largely on whether or not program beneficiaries reward implementers at election time. How do welfare benefits affect another important aspect of political behavior, namely everyday complaint-making and holding local governments accountable to citizens?
+ My dissertation and book project examines how welfare policies in India affect local-level political participation. Indian central, state, and local governments routinely deploy an expansive array of welfare programs including pensions, food subsidies, employment guarantees, and affordable housing.  Existing literature on the political effects of such policies in India and elsewhere has focused largely on whether or not program beneficiaries reward implementers at election time. How do welfare benefits affect another important aspect of political behavior, namely everyday complaint-making and holding local governments accountable to citizens?
 
 I argue that many welfare programs can be thought of as wealth transfers that have the potential to fundamentally alter recipients’ traits and attitudes such as socio-economic status, time horizons, and incentives. In India, many of these programs are implemented by local governments, often with variation in quality and continuity. Recipients should therefore be motivated to participate in local politics to protect the value of their benefits, with this participation facilitated by the changes in traits and attitudes. The argument implies that the right incentives should generate collective action to protect benefits even among very diverse groups of welfare beneficiaries.
  
