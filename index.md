@@ -15,18 +15,13 @@ order: 1
 </script>
 
 
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
 
-[![](.picture.jpeg)]{: .image-left }
+<p align="left">
+
+<img src="picture.jpeg"  height="200">
 
 
+</p>
 
 
 
