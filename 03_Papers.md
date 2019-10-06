@@ -4,6 +4,15 @@ title: Papers
 permalink: /Papers/
 order: 3
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111923831-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111923831-1');
+</script>
 
 I will post working papers here as they become available. I will also post all data and code for publications. Feel free to email to ask about works in progress and to check on the possibility of sharing data for working papers. 
 

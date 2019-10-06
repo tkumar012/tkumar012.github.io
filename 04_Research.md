@@ -4,6 +4,15 @@ title: Book project
 permalink: /Research/
 order: 4
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111923831-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111923831-1');
+</script>
 
 My research seeks to understand the origins and consequences of civic engagement in low- and middle-income countries, particularly India. Much of the literature on politics in developing countries focuses mainly on electoral behavior and preferences; nevertheless, a small but emerging body of work has shown that citizens routinely engage in everyday local political activity including complaint-making, negotiation with bureaucrats, and even participation in planning and budgeting processes. When and why will they do so?
 
