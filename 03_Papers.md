@@ -28,19 +28,20 @@ Under what circumstances might providing citizens with information compensate fo
    
 ## Working Papers
 
-["How welfare can generate civic action: evidence from affordable housing in Mumbai"(under review)](Kumar_APSA_2019.pdf) 
+["How welfare can generate civic action: evidence from affordable housing in Mumbai*"(under review)](Kumar_APSA_2019.pdf) 
 <details>
   <summary>Abstract</summary>
 Do welfare programs affect beneficiaries' likelihood of demanding government resources and services? Demand-making in middle and low-income countries is often described as being driven by a need for material resources, suggesting that receiving government benefits may decrease one's need to participate in such activity. Research on "policy feedback" in the United States, however, shows that resources delivered by programs simultaneously increase recipients' capacity for action and motivate them to protect these resources. I study the effects of a common welfare policy, namely subsidizing homeownership, on local-level demand-making in Mumbai, India. Through a natural experiment consisting of interviews of 834 applicants of subsidized housing lotteries 3-5 years after implementation, I find that winning an apartment increases both reported political participation to improve neighborhoods and knowledge about local politics, even among those who rent out the apartments. I present evidence suggesting that important mechanisms for these effects include changes in winners' attitudes and an increased interest in improving local communities. This study demonstrates that rather than mitigating the need for resources from local governments, welfare policies can actually generate self-interested local civic action by facilitating collective demand-making activity among groups of beneficiaries. </details>  <br/><br/>   
 
 
-["The human capital effects of subsidized homeownership: Evidence from a natural experiment in Mumbai"(under review)](Kumar_human_capital.pdf) 
+["The human capital effects of subsidized homeownership: Evidence from a natural experiment in Mumbai*"(under review)](Kumar_human_capital.pdf) 
 [Appendices](Appendices.pdf)
 <details>
   <summary>Abstract</summary>
 Governments in countries at all income levels subsidize homeownership and thereby transfer wealth to middle-class households. I use subsidized housing lotteries in Mumbai to identify the human capital effects of such a transfer and find that 3-5 years later, winners are more educated than non-winners, with effects concentrated among school-age youth. The intervention also increases rates of employment, particularly among older youth who have had the chance to complete their education. Effects are not likely to be driven by relocation, as winners live in neighborhoods with poorer school quality and lower rates of literacy and employment than non-winners.   </details>  <br/><br/>   
 
 
+*Companion papers featured together in \href{https://theprint.in/opinion/mumbai-residents-win-govt-housing-lottery-and-spend-more-on-kids-education-jobs-study/290485/}{\textit{The Print}}, \textit{The Jain Foundation Newsletter}, \textit{Ideas for India} (\href{https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai.html}{English} and \href{https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai-hindi.html}{Hindi}), and \href{https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/31/heres-what-gavin-newsom-elizabeth-warren-and-microsoft-should-know-if-want-to-end-the-affordable-housing-crisis/?tid=sm_tw_cage}{\textit{The Monkey Cage}}
  
   
 ["From public service access to service quality: The distributive politics of piped water in Bangalore" (under review)](https://watson.brown.edu/southasia/files/southasia/imce/events/Spring2018/Postetal.intermittency4.20.pdf) with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray 
