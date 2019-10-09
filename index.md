@@ -31,5 +31,5 @@ My dissertation project seeks to understand how welfare programs in developing c
 
 Active engagement with policymakers and stakeholders is an important part of my research and dissemination process. Please get in touch if you would like to work on something together!
 
-I hold an MA in Political Science from the University of California, Berkeley and a BA in Government and Economics from Bowdoin College.
+I hold an MA in Political Science from the University of California, Berkeley and a BA in Government and Economics from Bowdoin College. I expect to receive my PhD in May 2020. 
 
