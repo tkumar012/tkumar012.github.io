@@ -28,7 +28,7 @@ Under what circumstances might providing citizens with information compensate fo
    
 ## Working Papers
 
-["The non-electoral political effects of welfare policies: evidence from a natural experiment in Mumbai"(under review)](Kumar_govt_benefits.pdf) 
+["The non-electoral political effects of welfare policies: Evidence from a natural experiment in Mumbai"(under review)](Kumar_govt_benefits.pdf) 
 <details>
   <summary>Abstract</summary>
 Welfare programs in developing countries reach more people every day, potentially changing behavior and political landscapes in the long term. How do they affect an unstudied outcome, namely recipients' non-electoral political behavior? In these contexts, citizens often interact with governments to access resources, suggesting that receiving benefits may decrease participation. Yet research on "policy feedback" in the US shows that resources from benefits increase recipients’ capacity for action and motivate them to protect these resources. I study the effects of a common policy, subsidizing homeownership, on demand-making in Mumbai, India. A natural experiment of multiple housing lotteries shows that winning increases reported demand-making and knowledge about local politics, even among those who rent out the homes. Mechanisms may include changes in attitudes and an increased interest in improving communities. This study shows that welfare policies can facilitate collective demand-making activity among groups of beneficiaries. 	 </details>  <br/><br/>   
