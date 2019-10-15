@@ -29,13 +29,15 @@ Under what circumstances might providing citizens with information compensate fo
 ## Working Papers
 
 ["The non-electoral political effects of welfare policies: Evidence from a natural experiment in Mumbai"(under review)](Kumar_govt_benefits.pdf) 
+
+[Appendices](Appendices_.pdf)
 <details>
   <summary>Abstract</summary>
 Welfare programs in developing countries reach more people every day, potentially changing behavior and political landscapes in the long term. How do they affect an unstudied outcome, namely recipients' non-electoral political behavior? In these contexts, citizens often interact with governments to access resources, suggesting that receiving benefits may decrease participation. Yet research on "policy feedback" in the US shows that resources from benefits increase recipients’ capacity for action and motivate them to protect these resources. I study the effects of a common policy, subsidizing homeownership, on demand-making in Mumbai, India. A natural experiment of multiple housing lotteries shows that winning increases reported demand-making and knowledge about local politics, even among those who rent out the homes. Mechanisms may include changes in attitudes and an increased interest in improving communities. This study shows that welfare policies can facilitate collective demand-making activity among groups of beneficiaries. 	 </details>  <br/><br/>   
 
 ["The human capital effects of subsidized homeownership: Evidence from a natural experiment in Mumbai"(under review)](Kumar_human_capital.pdf) 
 
-[Appendices](Appendices.pdf)
+[Appendices](Appendices_.pdf)
 <details>
   <summary>Abstract</summary>
 Governments in countries at all income levels subsidize homeownership and thereby transfer wealth to middle-class households. I use subsidized housing lotteries in Mumbai to identify the human capital effects of such a transfer and find that 3-5 years later, winners are more educated than non-winners, with effects concentrated among school-age youth. The intervention also increases rates of employment, particularly among older youth who have had the chance to complete their education. Effects are not likely to be driven by relocation, as winners live in neighborhoods with poorer school quality and lower rates of literacy and employment than non-winners.   </details>  <br/><br/>   
