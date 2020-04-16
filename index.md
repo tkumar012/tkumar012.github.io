@@ -16,13 +16,6 @@ order: 1
 
 
 
-<p align="left">
-
-<img src="picture.jpeg"  height="200">
-
-
-</p>
-
 
 
 I am a PhD Candidate in Political Science at the University of California, Berkeley. I study the political, economic, and social behavior of individuals living in low- and middle-income countries, particularly India. I am also interested in statistics and research methodology.
