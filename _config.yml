@@ -1,7 +1,7 @@
-theme: minimal
+theme: minima
 markdown: kramdown
 title: Tanu Kumar
-logo: picture.jpeg
+
 header_pages:
   - 02_CV.md
   - 03_Papers.md
