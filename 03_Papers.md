@@ -28,12 +28,12 @@ Under what circumstances might providing citizens with information compensate fo
    
 ## Working Papers
 
-["The non-electoral political effects of welfare policies: Evidence from a natural experiment in Mumbai"(under review)](Kumar_govt_benefits.pdf) 
+["Home-price subsidies increase local-level political participation in urban India"](June6.pdf) 
 
 [Appendices](Appendices.pdf)
 <details>
   <summary>Abstract</summary>
-Welfare policies have the potential to fundamentally alter citizens' relationships with government. How do they affect an outcome unstudied in low- and middle-income countries, namely recipients' non-electoral political behavior? In these contexts, citizens are often described as making demands of governments primarily to access resources, suggesting that receiving resources through benefits may decrease this demand-making. Yet research on "policy feedback" in the U.S. shows that resources from benefits increase recipients' capacity for political action and motivate new demands to shape national-level policy-making and protect these resources. I study the effects of a common policy, subsidized home-prices, on demand-making in India. A natural experiment of multiple program lotteries shows that winning increases reported demand-making and knowledge about local government, even among those who rent out homes. Possible mechanisms include changes in attitudes and an increased interest in improving communities. This study highlights how motivations, beliefs, and aspirations, rather than simply need, may shape citizens' demands for resources. It also shows the potential for important policy feedback effects at the local level, where policies may not be made, but are implemented and experienced.  	 </details>  <br/><br/>   
+How do government transfers in low- and middle-income countries affect recipients' everyday local-level political participation? Existing research on political behavior in these contexts in the United States suggests that this relationship could be either positive or negative.  I study the effects of subsidized home-prices in Mumbai, India through an original survey of winners and non-winners of program lotteries. Benefitting increases reported demands made to improve local services and knowledge about municipal government, even among those who rent out the homes. Mechanisms include changes in beneficiaries' self-perception and an increased interest in improving communities. Even where politics is described as a set of exchange-based relationships between officials and citizens,  transfers generate active citizenship by increasing the political capacity and changing the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced.  	 </details>  <br/><br/>   
 
 ["Transferring wealth: the human capital effects of subsidizing homeownership"(under review)](Kumar_human_capital.pdf) 
 
