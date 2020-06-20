@@ -28,16 +28,16 @@ Under what circumstances might providing citizens with information compensate fo
    
 ## Working Papers
 
-["Home-price subsidies increase local-level political participation in urban India"](June6.pdf) 
+["Home-price subsidies increase local-level political participation in urban India"](june6.pdf) 
 
-[Appendices](Appendices.pdf)
+[Appendices](Appendices_june6.pdf)
 <details>
   <summary>Abstract</summary>
-How do government transfers in low- and middle-income countries affect recipients' everyday local-level political participation? Existing research on political behavior in these contexts in the United States suggests that this relationship could be either positive or negative.  I study the effects of subsidized home-prices in Mumbai, India through an original survey of winners and non-winners of program lotteries. Benefitting increases reported demands made to improve local services and knowledge about municipal government, even among those who rent out the homes. Mechanisms include changes in beneficiaries' self-perception and an increased interest in improving communities. Even where politics is described as a set of exchange-based relationships between officials and citizens,  transfers generate active citizenship by increasing the political capacity and changing the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced.  	 </details>  <br/><br/>   
+Government transfers are becoming increasingly common in low- and middle- income countries. How does receiving transfers affect an important input into ff local governance, namely the propensity to make everyday demands, or claims, of local government? Existing research on these contexts and the US suggests that this relationship could be positive or negative. I study the effects of subsidized home- prices in Mumbai, India through an original survey of winners and non-winners of program lotteries. Benefitting increases reported claims made to improve services and knowledge about municipal government, even among those who rent out the homes. Even where politics is described as a set of exchange-based relationships between officials and citizens, transfers generate active citizenship by increasing the political capacity and changing the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced. 	 </details>  <br/><br/>   
 
 ["Transferring wealth: the human capital effects of subsidizing homeownership"](Kumar_human_capital.pdf) 
 
-[Appendices](Appendices_.pdf)
+[Appendices](Appendices_hc.pdf)
 <details>
   <summary>Abstract</summary>
 Governments often subsidize homeownership, thereby transferring wealth to households. When studying subsidized housing lotteries in Mumbai, I find that beneficiaries reinvest this wealth in human capital. About 3-5 years after the lotteries, winners are more educated and more likely to be employed than non-winners, with large effects concentrated among school-age youth. Effects are unlikely to be driven solely by relocation to areas with better opportunities, as at the time of the survey, winners live in neighborhoods with worse schools, lower rates of literacy, and lower employment rates than non-winners. The results highlight how these illiquid government wealth transfers can shape beneficiaries' long-term economic trajectories in a short time.</details>  <br/><br/>   
