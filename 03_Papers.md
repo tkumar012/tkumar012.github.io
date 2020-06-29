@@ -14,7 +14,7 @@ order: 3
   gtag('config', 'UA-111923831-1');
 </script>
 
-I will post working papers here as they become available. I will also post all data and code for publications. Feel free to email to ask about works in progress and to check on the possibility of sharing data for working papers. 
+ Feel free to email to ask about works in progress and to check on the possibility of sharing data for working papers. 
 
 ## Peer-reviewed Publications
  
@@ -35,9 +35,8 @@ Under what circumstances might providing citizens with information compensate fo
   <summary>Abstract</summary>
 Government transfers are becoming increasingly common in low- and middle- income countries. How does receiving transfers affect an important input into ff local governance, namely the propensity to make everyday demands, or claims, of local government? Existing research on these contexts and the US suggests that this relationship could be positive or negative. I study the effects of subsidized home- prices in Mumbai, India through an original survey of winners and non-winners of program lotteries. Benefitting increases reported claims made to improve services and knowledge about municipal government, even among those who rent out the homes. Even where politics is described as a set of exchange-based relationships between officials and citizens, transfers generate active citizenship by increasing the political capacity and changing the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced. 	 </details>  <br/><br/>   
 
-["Transferring wealth: the human capital effects of subsidizing homeownership"](Kumar_human_capital.pdf) 
+"Transferring wealth: the human capital effects of subsidizing homeownership"
 
-[Appendices](Appendices_hc.pdf)
 <details>
   <summary>Abstract</summary>
 Governments often subsidize homeownership, thereby transferring wealth to households. When studying subsidized housing lotteries in Mumbai, I find that beneficiaries reinvest this wealth in human capital. About 3-5 years after the lotteries, winners are more educated and more likely to be employed than non-winners, with large effects concentrated among school-age youth. Effects are unlikely to be driven solely by relocation to areas with better opportunities, as at the time of the survey, winners live in neighborhoods with worse schools, lower rates of literacy, and lower employment rates than non-winners. The results highlight how these illiquid government wealth transfers can shape beneficiaries' long-term economic trajectories in a short time.</details>  <br/><br/>   
