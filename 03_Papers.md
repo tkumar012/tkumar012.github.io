@@ -35,11 +35,13 @@ Under what circumstances might providing citizens with information compensate fo
   <summary>Abstract</summary>
 Government transfers are becoming increasingly common in low- and middle- income countries. How does receiving transfers affect an important input into ff local governance, namely the propensity to make everyday demands, or claims, of local government? Existing research on these contexts and the US suggests that this relationship could be positive or negative. I study the effects of subsidized home- prices in Mumbai, India through an original survey of winners and non-winners of program lotteries. Benefitting increases reported claims made to improve services and knowledge about municipal government, even among those who rent out the homes. Even where politics is described as a set of exchange-based relationships between officials and citizens, transfers generate active citizenship by increasing the political capacity and changing the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced. 	 </details>  <br/><br/>   
 
-"Transferring wealth: the human capital effects of subsidizing homeownership"
+["The human capital effects of subsidized government-constructed homes in urban India"](humancapital.pdf) 
+[Appendices](Appendices_hc.pdf)
 
 <details>
   <summary>Abstract</summary>
-Governments often subsidize homeownership, thereby transferring wealth to households. When studying subsidized housing lotteries in Mumbai, I find that beneficiaries reinvest this wealth in human capital. About 3-5 years after the lotteries, winners are more educated and more likely to be employed than non-winners, with large effects concentrated among school-age youth. Effects are unlikely to be driven solely by relocation to areas with better opportunities, as at the time of the survey, winners live in neighborhoods with worse schools, lower rates of literacy, and lower employment rates than non-winners. The results highlight how these illiquid government wealth transfers can shape beneficiaries' long-term economic trajectories in a short time.</details>  <br/><br/>   
+
+How do widespread initiatives to subsidize government constructed homes affect household economic trajectories? I measure the human capital effects of a subsidized housing lottery in Mumbai, India. Winners can live in or rent out the homes, but cannot resell for 10 years. After 3-5 years, winners have higher education and employment rates than non-winners, with effects concentrated among youth. Effects occur even though winners live in neighborhoods with worse schools and lower employment rates than non-winners at the time of measurement. A common policy delivering large but illiquid transfers can change important outcomes in a short time.</details>  <br/><br/>   
   
 ["From public service access to service quality: The distributive politics of piped water in Bangalore"](https://watson.brown.edu/southasia/files/southasia/imce/events/Spring2018/Postetal.intermittency4.20.pdf) with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray 
 <details>
