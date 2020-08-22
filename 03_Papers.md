@@ -28,7 +28,8 @@ Under what circumstances might providing citizens with information compensate fo
    
 ## Working Papers
 
-["Home-price subsidies increase local-level political participation in urban India"](claims.pdf) 
+["Home-price subsidies increase local-level political participation in urban India"](claims.pdf)(revision invited, \textit{Journal of Politics})
+ 
 
 [Appendices](Appendices_june6.pdf)
 <details>
