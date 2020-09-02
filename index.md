@@ -21,5 +21,5 @@ I study how policies to house and provide essential services to growing urban po
  I aim to combine insights from political science, development economics, and public policy to generate policy-relevant insights on the factors shaping the lives of urban residents across the globe.
 
 
-I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also hold an MA in Political Science from the University of California, Berkeley and a BA in Government and Economics from Bowdoin College. 
+I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. 
 
