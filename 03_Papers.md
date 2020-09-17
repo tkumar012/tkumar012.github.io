@@ -31,10 +31,10 @@ Under what circumstances might providing citizens with information compensate fo
 ["Home-price subsidies increase local-level political participation in urban India"](claims.pdf)(revision invited, *Journal of Politics*)
  
 
-[Appendices](Appendices_june6.pdf)
+[Appendices](Appendices_claims.pdf)
 <details>
   <summary>Abstract</summary>
-Government transfers are becoming increasingly common in low- and middle- income countries. How does receiving transfers affect an important input into ff local governance, namely the propensity to make everyday demands, or claims, of local government? Existing research on these contexts and the US suggests that this relationship could be positive or negative. I study the effects of subsidized home- prices in Mumbai, India through an original survey of winners and non-winners of program lotteries. Benefitting increases reported claims made to improve services and knowledge about municipal government, even among those who rent out the homes. Even where politics is described as a set of exchange-based relationships between officials and citizens, transfers generate active citizenship by increasing the political capacity and changing the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced. 	 </details>  <br/><br/>   
+Home-price subsidies are common in low- and middle-income countries. How do they affect an important input into local governance, namely citizens' propensity to make everyday demands or claims? I study the effects of a program in Mumbai, India through an original survey of winners and non-winners of program lotteries. Winning increases participants' reported claims to improve services, knowledge about municipal government, and changes policy preferences, even among those who rent out the homes. Transfers can thus generate active citizenship through many channels including increased political capacity, improved perceptions of self-efficacy, expanded expectations of government, and changed the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced. The findings are among the first causally identified effects of policy on claim-making, and add a new context and dependent variable to the literature on housing policy. 	 </details>  <br/><br/>   
 
 ["The human capital effects of subsidized government-constructed homes in urban India"](humancapital.pdf) 
 
