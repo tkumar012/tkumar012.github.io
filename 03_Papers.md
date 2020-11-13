@@ -25,8 +25,6 @@ order: 3
   <summary>Abstract</summary>
 Under what circumstances might providing citizens with information compensate for unreliable public services? We present a field-experimental evaluation of a program that provided households in Bangalore with advance notification of intermittently provided piped water. The implementers expected that increasing service predictability would reduce wait times for water, reduce costs related to waiting, and improve citizen-state relationships. As many citizens did not receive accurate information, our study detected no impacts on household wait times for water or state-citizen relations. Nonetheless, our study suggests that notifications about water timing reduced stress, especially among low income populations. These findings indicate that greater attention should be paid to both psychological outcomes and the information production and dissemination chain in information interventions. We introduce a causal framework for analyzing “information pipelines” to enable such efforts.
 </details> <br/><br/>   
-   
-## Working Papers
 
 ["Home-price subsidies increase local-level political participation in urban India"](claims.pdf)(Conditional acceptance, *Journal of Politics*)
  
@@ -35,6 +33,10 @@ Under what circumstances might providing citizens with information compensate fo
 <details>
   <summary>Abstract</summary>
 Home-price subsidies are common in low- and middle-income countries. How do they affect an important input into local governance, namely citizens' propensity to make everyday demands or claims? I study the effects of a program in Mumbai, India through an original survey of winners and non-winners of program lotteries. Winning increases participants' reported claims to improve services, knowledge about municipal government, and changes policy preferences, even among those who rent out the homes. Transfers can thus generate active citizenship through many channels including increased political capacity, improved perceptions of self-efficacy, expanded expectations of government, and changed the motivations of recipients. They also create interest groups at the local level, where such policies are not made, but implemented and experienced. The findings are among the first causally identified effects of policy on claim-making, and add a new context and dependent variable to the literature on housing policy. 	 </details>  <br/><br/>   
+   
+## Working Papers
+
+
 
 ["The human capital effects of subsidized government-constructed homes in urban India"](humancapital.pdf) 
 
