@@ -18,28 +18,19 @@ order: 3
 
 ## Peer-reviewed Publications
  
-[Kumar, T., Post, A., and Ray, I. "Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector." *World Development* 106: 149-160, 2018.](https://doi.org/10.1016/j.worlddev.2018.01.022) 
+[Kumar, T., Post, A., and Ray, I. "Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector." *World Development* 106: 149-160, 2018.](https://doi.org/10.1016/j.worlddev.2018.01.022) [Ungated](WD_paper.pdf)[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
 
-[Ungated](WD_paper.pdf)
-
-[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
-
-["Home-price subsidies increase local-level political participation in urban India"](claims.pdf)(Conditional acceptance, *Journal of Politics*)
- 
-
-[Appendices](Appendices_claims.pdf)
+["Home-price subsidies increase local-level political participation in urban India"](claims.pdf)(Conditional acceptance, *Journal of Politics*)[Appendices](Appendices_claims.pdf)
    
 ## Working Papers
 
 
 
-["The human capital effects of subsidized government-constructed homes in urban India"](humancapital.pdf) 
-
-[Appendices](Appendices_hc.pdf)
+["The human capital effects of subsidized government-constructed homes in urban India"](humancapital.pdf) [Appendices](Appendices_hc.pdf)
 
   
 ["From public service access to service quality: The distributive politics of piped water in Bangalore"](intermittency.pdf) with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray 
-<br/><br/>   
+
  ["Preferences for descriptive representation: Asymmetries between Hindus and Muslims in India."](http://sekhon.berkeley.edu/papers/cks_public.pdf) with Pradeep Chhibber and Jasjeet Sekhon 
 
 
