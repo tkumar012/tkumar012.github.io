@@ -35,6 +35,12 @@ order: 3
 
 ## Other Writing
 
+"Engineering predictable water? How to understand the humans that make tech innovations work."  Hyun, C. Kumar, T., Post, A. and Ray, I.  In *An Introduction to Development Engineering*, eds. Madon, T., and Gadgil, A. Springer. Forthcoming.
+
+"The general transit feed specification makes trip-planning easier -- especially during a pandemic -- yet its use by California agencies is uneven." Trapenberg Frick, K. Kumar, T., Li, R., Patil, A., and Post, A.  University of California. 2020. [[Policy Brief]](https://escholarship.org/uc/item/9j94q60f), [[Paper]](\href{https://escholarship.org/uc/item/1f29b7dk) 
+
+["Subsidizing homeownership builds wealth and motivates participation in urban politics: evidence from India."](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2020/05/Spring-Newsletter-2020.pdf)  In ``Cities and Urban Politics,'' eds. Finkel, E.,  Lawrence, A.,  and Mertha, A.  *Newsletter of the Organized Section in Comparative Politics of the American Political Science Association*, 30(1). 2020.
+
 [Review](https://southasia.berkeley.edu/sites/default/files/shared/India_Center/India_Moving.pdf) of *India Moving: A History of Migration* by Chinmay Tumbe. (2018, Penguin Viking).  UC Berkeley Institute for South Asia Studies. July 28, 2020.
 
 "Household-level effects of affordable housing: Evidence from Mumbai" *Ideas for India*. [English](https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai.html) and [Hindi](https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai-hindi.html), syndicated in [*The Print*](https://theprint.in/opinion/mumbai-residents-win-govt-housing-lottery-and-spend-more-on-kids-education-jobs-study/290485/). September 4, 2019.
