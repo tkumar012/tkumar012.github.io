@@ -53,7 +53,7 @@ order: 3
 
 "The distributive politics of land use policies in urban India"
 
-"Catalyzing cooperative intra-household mobile technology use and knowledge sharing: A Ppilot study in Malawi" with Peter Carroll, Boniface Dulani, Dan Nielsen, and Philip Roessler 
+"Catalyzing cooperative intra-household mobile technology use and knowledge sharing: A pilot study in Malawi" with Peter Carroll, Boniface Dulani, Dan Nielsen, and Philip Roessler 
 
 "Citizenship practice in unauthorized neighborhoods in urban India" with Adam Auerbach
 
