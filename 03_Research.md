@@ -39,7 +39,7 @@ order: 3
 
 "The general transit feed specification makes trip-planning easier -- especially during a pandemic -- yet its use by California agencies is uneven." Trapenberg Frick, K. Kumar, T., Li, R., Patil, A., and Post, A.  University of California. 2020. [[Policy Brief]](https://escholarship.org/uc/item/9j94q60f), [[Paper]](\href{https://escholarship.org/uc/item/1f29b7dk) 
 
-["Subsidizing homeownership builds wealth and motivates participation in urban politics: evidence from India."](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2020/05/Spring-Newsletter-2020.pdf)  In ``Cities and Urban Politics,'' eds. Finkel, E.,  Lawrence, A.,  and Mertha, A.  *Newsletter of the Organized Section in Comparative Politics of the American Political Science Association*, 30(1). 2020.
+["Subsidizing homeownership builds wealth and motivates participation in urban politics: evidence from India."](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2020/05/Spring-Newsletter-2020.pdf)  In `"Cities and Urban Politics," eds. Finkel, E.,  Lawrence, A.,  and Mertha, A.  *Newsletter of the Organized Section in Comparative Politics of the American Political Science Association*, 30(1). 2020.
 
 [Review](https://southasia.berkeley.edu/sites/default/files/shared/India_Center/India_Moving.pdf) of *India Moving: A History of Migration* by Chinmay Tumbe. (2018, Penguin Viking).  UC Berkeley Institute for South Asia Studies. July 28, 2020.
 
