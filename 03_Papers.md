@@ -38,7 +38,7 @@ order: 3
 [Appendices](Appendices_hc.pdf)
 
   
-["From public service access to service quality: The distributive politics of piped water in Bangalore"](https://watson.brown.edu/southasia/files/southasia/imce/events/Spring2018/Postetal.intermittency4.20.pdf) with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray 
+["From public service access to service quality: The distributive politics of piped water in Bangalore"](intermittency.pdf) with Alison Post, Megan Otsuka, Francesc Pardo-Bosch, and Isha Ray 
 <br/><br/>   
  ["Preferences for descriptive representation: Asymmetries between Hindus and Muslims in India."](http://sekhon.berkeley.edu/papers/cks_public.pdf) with Pradeep Chhibber and Jasjeet Sekhon 
 
