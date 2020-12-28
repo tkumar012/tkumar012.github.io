@@ -18,7 +18,8 @@ I am a postdoctoral fellow at [William & Mary's Global Research Institute](https
 
 I study how policies to house and provide essential services to growing urban populations shape, and are further shaped by, the behavior of urban citizens and politicians. My primary regional focus is on India, but I am also studying cities in the United States and Eastern Africa.
 
- I aim to combine insights from political science, development economics, and public policy to generate policy-relevant insights on the factors shaping the lives of urban residents across the globe.
+Check out some recent media coverage of my work in [The Washington Post](https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/31/heres-what-gavin-newsom-elizabeth-warren-and-microsoft-should-know-if-want-to-end-the-affordable-housing-crisis/?tid=sm_tw_cage), Ideas for India ([English](https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai.html) and [Hindi](https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai-hindi.html)), [ThePrint](https://theprint.in/opinion/mumbai-residents-win-govt-housing-lottery-and-spend-more-on-kids-education-jobs-study/290485/), and this [podcast](https://www.discoursemagazine.com/politics/2020/12/24/ideas-of-india-how-does-subsidizing-housing-prices-shape-political-behavior/). 
+
 
 
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. 
