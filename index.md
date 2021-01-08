@@ -13,7 +13,7 @@ order: 1
 
   gtag('config', 'UA-111923831-1');
 </script>
-I am a postdoctoral fellow at [William & Mary's Global Research Institute](https://www.wm.edu/offices/global-research/). I am also affiliated with the [Department of Government](https://www.wm.edu/as/government/index.php). Starting July 2022, I will be an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/), [School of Social Science, Policy, and Evaluation](https://www.cgu.edu/school/ssspe/), at [Claremont Graduate University](https://www.cgu.edu).
+I am a postdoctoral fellow at [William & Mary's Global Research Institute](https://www.wm.edu/offices/global-research/). I am also affiliated with the [Department of Government](https://www.wm.edu/as/government/index.php). Starting July 2022, I will be an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) ([School of Social Science, Policy, and Evaluation](https://www.cgu.edu/school/ssspe/)) at [Claremont Graduate University](https://www.cgu.edu).
 
 
 I study how policies to house and provide essential services to growing urban populations shape, and are further shaped by, the behavior of urban citizens and politicians. My primary regional focus is on India, but I am also studying cities in the United States and Eastern Africa.
