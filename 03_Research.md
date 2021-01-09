@@ -18,7 +18,7 @@ order: 3
 
 ## Peer-reviewed Publications
 
-["Home-price subsidies increase local-level political participation in urban India"](claims.pdf)(Forthcoming, *Journal of Politics*) [[Appendices]](Appendices_claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
+["Home-price subsidies increase local-level political participation in urban India"](claims.pdf) Forthcoming, *Journal of Politics.* [[Appendices]](Appendices_claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
  
 [Kumar, T., Post, A., and Ray, I. "Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector." *World Development* 106: 149-160, 2018.](https://doi.org/10.1016/j.worlddev.2018.01.022) [[Ungated]](WD_paper.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
 
