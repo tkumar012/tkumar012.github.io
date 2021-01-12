@@ -13,6 +13,10 @@ order: 1
 
   gtag('config', 'UA-111923831-1');
 </script>
+
+
+<img style="float: right;" src="picture2.png">
+
 I am a postdoctoral fellow at [William & Mary's Global Research Institute](https://www.wm.edu/offices/global-research/). I am also affiliated with the [Department of Government](https://www.wm.edu/as/government/index.php). Starting July 2022, I will be an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) ([School of Social Science, Policy, and Evaluation](https://www.cgu.edu/school/ssspe/)) at [Claremont Graduate University](https://www.cgu.edu).
 
 
