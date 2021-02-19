@@ -28,5 +28,5 @@ Check out some recent media coverage of my work in [The Washington Post](https:/
 
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. 
 
-*For William & Mary students seeking a position with the Global Cities and Digital Democracy Initiative*: Thank you for your interest, we have currently filled all positions.
+**For William & Mary students seeking a position with the Global Cities and Digital Democracy Initiative**: Thank you for your interest, but we have currently filled all positions.
 
