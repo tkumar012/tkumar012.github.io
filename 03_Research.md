@@ -52,14 +52,4 @@ order: 3
 
 [Review](http://onlinelibrary.wiley.com/doi/10.1111/gove.12241/abstract) of *Contesting the Indian City: Global Visions and the Politics of the Local*, ed. Gavin Shatkin (2014, Wiley-Blackwell). *Governance* 29 (4): 589-590, 2016.
 
-## In Progress
-
-"The distributive politics of land use policies in urban India"
-
-"Catalyzing cooperative intra-household mobile technology use and knowledge sharing: A pilot study in Malawi" with Peter Carroll, Boniface Dulani, Dan Nielsen, and Philip Roessler 
-
-"Citizenship practice in unauthorized neighborhoods in urban India" with Adam Auerbach
-
-" 'Smart city' technology adoption in California" [[see research team]](https://connectedgov.berkeley.edu/blog/)
-
 
