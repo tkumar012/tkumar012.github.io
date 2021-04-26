@@ -17,7 +17,7 @@ order: 1
 <img style="float: left;padding-right: 20px;" src="IMG_4900.jpeg"  width="35%" height="35%">
 
 
-I am a postdoctoral fellow at [William & Mary's Global Research Institute](https://www.wm.edu/offices/global-research/). I am also affiliated with the [Department of Government](https://www.wm.edu/as/government/index.php). Starting July 2022, I will be an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu).
+I am a postdoctoral fellow at [William & Mary's Global Research Institute](https://www.wm.edu/offices/global-research/). Starting July 2022, I will be an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu).
 
 
 I study how policies to house and provide essential services to growing urban populations shape, and are further shaped by, the behavior of urban citizens and politicians. 
