@@ -37,7 +37,7 @@ order: 3
   
 
 
-## Other Writing
+## Other Research and Writing
 
 "Engineering predictable water? How to understand the humans that make tech innovations work."  Hyun, C. Kumar, T., Post, A. and Ray, I.  In *An Introduction to Development Engineering*, eds. Madon, T., and Gadgil, A. Springer. Forthcoming.
 
@@ -47,9 +47,6 @@ order: 3
 
 [Review](https://southasia.berkeley.edu/sites/default/files/shared/India_Center/India_Moving.pdf) of *India Moving: A History of Migration* by Chinmay Tumbe. (2018, Penguin Viking).  UC Berkeley Institute for South Asia Studies. July 28, 2020.
 
-"Household-level effects of affordable housing: Evidence from Mumbai" *Ideas for India*. [English](https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai.html) and [Hindi](https://www.ideasforindia.in/topics/poverty-inequality/household-level-effects-of-affordable-housing-evidence-from-mumbai-hindi.html), syndicated in [*The Print*](https://theprint.in/opinion/mumbai-residents-win-govt-housing-lottery-and-spend-more-on-kids-education-jobs-study/290485/). September 4, 2019.
-
-["Here's what Gavin Newsom, Elizabeth Warren and Microsoft should know if they want to end the affordable housing crisis"](https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/31/heres-what-gavin-newsom-elizabeth-warren-and-microsoft-should-know-if-want-to-end-the-affordable-housing-crisis/?tid=sm_tw_cage) *The Monkey Cage*. January 31, 2019. 
 
 [Review](http://onlinelibrary.wiley.com/doi/10.1111/gove.12241/abstract) of *Contesting the Indian City: Global Visions and the Politics of the Local*, ed. Gavin Shatkin (2014, Wiley-Blackwell). *Governance* 29 (4): 589-590, 2016.
 
