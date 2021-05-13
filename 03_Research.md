@@ -34,20 +34,7 @@ order: 3
 ["The human capital effects of subsidized government-constructed homes in urban India"](Kumar_human_capital.pdf) [[Appendices]](Kumar_human_capital_appendix.pdf)
 
 
-## Research in Progress
 
-
-"Citizenship practice in India's middle-class unauthorized colonies" with Adam Auerbach
-	
-"The squeaky wheel gets the grease: civic complaints, government responsiveness, and change over time in urban India"
-	
-"Catalyzing cooperative intra-household mobile technology use and knowledge sharing: A pilot study in Malawi" with Philip Roessler, Daniel Nielson, Peter Carroll, and Boniface Dulani
-	 
-"Why we should study small cities" with Matthew Stenberg
-	 
-"The impact of women's workshops on political efficacy in Sri Lanka" with Kyong Mazzaro and the International Republican Institute
-
-"The political economy of public complaints and government responsiveness in Mumbai" with Sam Asher and Paul Novosad
 	
 
 ## Other Research and Writing
