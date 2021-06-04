@@ -26,7 +26,7 @@ Check out some media coverage of this work in [The Washington Post](https://www.
 
 
 
-I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. I have received a best dissertation award (honorable mention) and been named a Susan Clarke Young Scholar by the American Political Science Association's Urban and Local Politics section (20210>
+I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. I have received a best dissertation award (honorable mention) and been named a Susan Clarke Young Scholar by the American Political Science Association's Urban and Local Politics section (2021).
 
 
 
