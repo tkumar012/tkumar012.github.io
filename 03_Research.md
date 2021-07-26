@@ -36,20 +36,20 @@ order: 3
 
 ## In Progress
 
-	"How the content of claims shapes government responsiveness: theory and evidence from Mumbai. *Draft in preparation for APSA 2021*.
+"How the content of claims shapes government responsiveness: theory and evidence from Mumbai. *Draft in preparation for APSA 2021*.
 	
 	
-	"Why we should study small cities" (with Matthew Stenberg). *Draft in preparation for APSA 2021*.
+"Why we should study small cities" (with Matthew Stenberg). *Draft in preparation for APSA 2021*.
 	
 	
-	"Citizenship practice in India's middle-class unauthorized colonies" (with Adam Auerbach). *Funding acquired, data collection in progress*.
+"Citizenship practice in India's middle-class unauthorized colonies" (with Adam Auerbach). *Funding acquired, data collection in progress*.
 	
 	
-	"An experimental analysis of the impact of smartphones and household property rights on the uptake of digital financial services in Blantyre, Malawi" (Peter Carroll, Boniface Dulani, Daniel Nielson, and Philip Roessler).*Intervention in field*.
+"An experimental analysis of the impact of smartphones and household property rights on the uptake of digital financial services in Blantyre, Malawi" (Peter Carroll, Boniface Dulani, Daniel Nielson, and Philip Roessler).*Intervention in field*.
 	
-	"The impact of political efficacy trainings on women political actors in Sri Lanka" (with Kyong Mazzaro and the International Republican Institute). *Survey in field*.
+"The impact of political efficacy trainings on women political actors in Sri Lanka" (with Kyong Mazzaro and the International Republican Institute). *Survey in field*.
 	 
-	"Bias in responsiveness to complaints about public services in Mumbai" (with Sam Asher and Paul Novosad). *Data collected*.
+"Bias in responsiveness to complaints about public services in Mumbai" (with Sam Asher and Paul Novosad). *Data collected*.
 
 	
 
