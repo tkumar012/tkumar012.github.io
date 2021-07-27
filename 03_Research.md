@@ -36,7 +36,7 @@ order: 3
 
 ## In Progress
 
-"How the content of claims shapes government responsiveness: theory and evidence from Mumbai. *Draft in preparation for APSA 2021*.
+"How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft in preparation for APSA 2021*.
 	
 	
 "Why we should study small cities" (with Matthew Stenberg). *Draft in preparation for APSA 2021*.
