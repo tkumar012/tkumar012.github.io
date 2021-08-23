@@ -14,7 +14,7 @@ order: 1
   gtag('config', 'UA-111923831-1');
 </script>
 
-<img style="float: left;padding-right: 20px;" src="IMG_4900.jpeg"  width="35%" height="35%">
+<img style="float: left;padding-right: 20px;" src="IMG_4900.jpeg"  width="40%" height="40%">
 
 
 I am a postdoctoral fellow at [William & Mary's Global Research Institute](https://www.wm.edu/offices/global-research/). Starting July 2022, I will be an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). 
