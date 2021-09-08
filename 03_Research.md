@@ -19,7 +19,7 @@ order: 3
 ## Peer-reviewed Publications
 
 
-Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](housingecon.pdf) Forthcoming, *Journal of Development Economics*. [[Appendices]](appendices_econ.pdf) Data and code coming soon.
+Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://authors.elsevier.com/a/1diy915DRFyTbb)  *Journal of Development Economics* 153: 102738, 2021. [Ungated](housingecon.pdf) Data and code coming soon.
 
 Kumar, T., ["Home-price subsidies increase local-level political participation in urban India"](claims.pdf) Forthcoming, *Journal of Politics.* [[Appendices]](Appendices_claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
  
@@ -37,6 +37,8 @@ Kumar, T., ["Home-price subsidies increase local-level political participation i
 
 
 ## In Progress
+
+"Housing as welfare: how subsidized homes redistribute wealth and create local-level interest groups in urban India." *Book manuscript in preparation*
 
 "How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft in preparation for APSA 2021*.
 	
