@@ -25,7 +25,7 @@ Kumar, T., ["Home-price subsidies increase local-level political participation i
 
 Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://authors.elsevier.com/a/1diy915DRFyTbb)  *Journal of Development Economics* 153: 102738, 2021. [[Ungated]](housingecon.pdf) Data and code coming soon.
  
-[Kumar, T., Post, A., and Ray, I. "Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector." *World Development* 106: 149-160, 2018.](https://doi.org/10.1016/j.worlddev.2018.01.022) [[Ungated]](WD_paper.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
+[Kumar, T., Post, A., and Ray, I. "Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector." *World Development* 106: 149-160, 2018.](https://doi.org/10.1016/j.worlddev.2018.01.022) [[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
 
 
    
@@ -42,10 +42,10 @@ Kumar, T., ["The housing quality, income, and human capital effects of subsidize
 
 "Housing as welfare: how subsidized homes redistribute wealth and create local-level interest groups in urban India." *Book manuscript in preparation*
 
-"How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft in preparation for APSA 2021*.
+"How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft available upon request*.
 	
 	
-"Why we should study small cities" (with Matthew Stenberg). *Draft in preparation for APSA 2021*.
+"Why we should study small cities" (with Matthew Stenberg). *Draft available upon request*.
 	
 	
 "Citizenship practice in India's middle-class unauthorized colonies" (with Adam Auerbach). *Funding acquired, data collection in progress*.
