@@ -25,7 +25,7 @@ Kumar, T., ["Home-price subsidies increase local-level political participation i
 
 Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://authors.elsevier.com/a/1diy915DRFyTbb)  *Journal of Development Economics* 153: 102738, 2021. [[Ungated]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
  
-[Kumar, T., Post, A., and Ray, I. "Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector." *World Development* 106: 149-160, 2018.](https://doi.org/10.1016/j.worlddev.2018.01.022) [[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
+Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
 
 
    
