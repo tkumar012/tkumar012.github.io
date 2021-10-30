@@ -26,7 +26,7 @@ Kumar, T., ["Home-price subsidies increase local-level political participation i
 Kumar, T., Post A., Ray, I., Otsuka, M., and Pardo-Bosch, F. ["From public service access to service quality: The distributive politics of piped water in Bangalore"](intermittency.pdf) Forthcoming, *World Development*.[[Appendices]](intermittencyOnlineAppendix.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL)
 
 
-Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://authors.elsevier.com/a/1diy915DRFyTbb)  *Journal of Development Economics* 153: 102738, 2021. [[Ungated]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
+Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics* 153: 102738, 2021. [[Ungated]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
  
 Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
 
