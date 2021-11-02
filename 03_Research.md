@@ -23,7 +23,7 @@ order: 3
 Kumar, T., ["Home-price subsidies increase local-level political participation in urban India"](claims.pdf) Forthcoming, *Journal of Politics.* [[Appendices]](Appendices_claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
 
 
-Kumar, T., Post A., Ray, I., Otsuka, M., and Pardo-Bosch, F. ["From public service access to service quality: The distributive politics of piped water in Bangalore"](intermittency.pdf) Forthcoming, *World Development*.[[Appendices]](intermittencyOnlineAppendix.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL)
+Kumar, T., Post A., Ray, I., Otsuka, M., and Pardo-Bosch, F. ["From public service access to service quality: The distributive politics of piped water in Bangalore"]( http://ssrn.com/abstract=3954424) Forthcoming, *World Development*.[[Appendices]](intermittencyOnlineAppendix.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL)
 
 
 Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics* 153: 102738, 2021. [[Ungated]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
