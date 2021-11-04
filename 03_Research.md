@@ -39,7 +39,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ## In Progress
 
-"Housing as welfare: how subsidized homes redistribute wealth and create local-level interest groups in urban India." *Book manuscript in preparation*
+"Housing as welfare: how subsidized homes  redistribute wealth, create dignity, and form local-level interest groups in urban India." *Book manuscript in preparation*
 
 "How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft available upon request*.
 	
