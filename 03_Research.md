@@ -35,7 +35,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 "Housing as welfare: how government-supported homeownership  redistributes wealth, creates dignity, and forms local-level interest groups in urban India." *Book manuscript in preparation*
 
-["How the content of claims shapes government responsiveness: theory and evidence from Mumbai."(claimmakingresponsiveness.pdf) 
+["How the content of claims shapes government responsiveness: theory and evidence from Mumbai."](claimmakingresponsiveness.pdf) 
 	
 	
 "Why we should study small cities" (with Matthew Stenberg). *Draft available upon request*.
