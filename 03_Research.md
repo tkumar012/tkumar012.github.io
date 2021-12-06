@@ -5,7 +5,7 @@ permalink: /Research/
 order: 3
 ---
 
- Feel free to email to ask about works in progress and to check on the possibility of sharing data for working papers. 
+ Feel free to email to ask about data for working papers. 
 
 ## Peer-reviewed Publications
 
