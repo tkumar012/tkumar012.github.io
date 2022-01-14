@@ -27,6 +27,4 @@ I study policies to manage rapid urban growth, mainly in India. My current book 
 
 
 
-I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. I have been named a Susan Clarke Young Scholar and won a Best Dissertation Award (Honorable Mention) from APSA's Urban and Local Politics Section.
-
-
+I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I also studied at Bowdoin College. I have been named a Susan Clarke Young Scholar and won a Best Dissertation Award (Honorable Mention) from APSA's Urban and Local Politics Section. 
