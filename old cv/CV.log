@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JAN 2022 09:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  25 JAN 2022 20:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,37 +355,92 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidth=\dimen127
 \titlewidthlast=\dimen128
 \titlewidthfirst=\dimen129
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count114
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2015/05/05 v3.01
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count115
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen130
+)
+\c@padzeroesN=\count116
+\fc@tmpcatcode=\count117
+\@DT@modctr=\count118
+\@ordinalctr=\count119
+\@orgargctr=\count120
+\@strctr=\count121
+\@tmpstrctr=\count122
+\@DT@loopN=\count123
+\@DT@X=\count124
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2013/08/17
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count125
+\@month=\count126
+\@year=\count127
+\c@HOUR=\count128
+\c@HOURXII=\count129
+\c@MINUTE=\count130
+\c@TOHOUR=\count131
+\c@TOMINUTE=\count132
+\c@SECOND=\count133
+\currenthour=\count134
+\currentminute=\count135
+\currentsecond=\count136
+Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
+\@dtctr=\count137
+\dayofyear=\count138
+\dayofweek=\count139
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
+\c@mn@abspage=\count140
 ) (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TOsF on input line 16.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TOsF on input line 25.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TOsF.fd
 File: T1LinuxLibertineT-TOsF.fd 2012/11/26 (autoinst) Font definitions for T1/LinuxLibertineT-TOsF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 16.
-\c@mv@tabular=\count114
-\c@mv@boldtabular=\count115
+(Font)              scaled to size 10.95pt on input line 25.
+\c@mv@tabular=\count141
+\c@mv@boldtabular=\count142
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -409,7 +464,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/n' will be
 * \topskip=11.0pt
 * \footskip=30.0pt
 * \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparsep=-10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
@@ -418,82 +473,84 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/n' will be
 * \@twocolumnfalse
 * \@twosidefalse
 * \@mparswitchfalse
-* \@reversemarginfalse
+* \@reversemargintrue
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
-\scratchdimen=\dimen130
+\scratchcounter=\count143
+\scratchdimen=\dimen131
 \scratchbox=\box54
-\nofMPsegments=\count117
-\nofMParguments=\count118
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count119
-\MPscratchDim=\dimen131
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
-\everyMPtoPDFconversion=\toks21
+\nofMPsegments=\count144
+\nofMParguments=\count145
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen132
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
+\everyMPtoPDFconversion=\toks24
 )
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 25.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
  (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count122
+\c@section@level=\count149
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (./CV.out) (./CV.out)
 \@outlinefile=\write3
 \openout3 = `CV.out'.
 
+Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
+(marginnote)             Extended position detection mode activated.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 21.
+(Font)              scaled to size 20.74pt on input line 30.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 21.
+(Font)              scaled to size 20.74pt on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 28.
+(Font)              <10.95> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <6> on input line 38.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 35.
+(Font)              scaled to size 14.4pt on input line 43.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 35.
+(Font)              scaled to size 14.4pt on input line 43.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 38.
+(Font)              scaled to size 10.95pt on input line 48.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 65.
+(Font)              scaled to size 10.95pt on input line 75.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/b/it' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 97.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 246.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 246.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 246.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 246.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 246.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
  ) 
 Here is how much of TeX's memory you used:
- 8182 strings out of 493089
- 127202 string characters out of 6134842
- 218975 words of memory out of 5000000
- 11581 multiletter control sequences out of 15000+600000
+ 9256 strings out of 493089
+ 142241 string characters out of 6134842
+ 250245 words of memory out of 5000000
+ 12620 multiletter control sequences out of 15000+600000
  48728 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,5n,68p,1019b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,5n,68p,1045b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_jkqd5u.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_oie7e6.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_v2xmgd.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_hj4mhx.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV.pdf (3 pages, 302014 bytes).
+Output written on CV.pdf (3 pages, 302046 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
