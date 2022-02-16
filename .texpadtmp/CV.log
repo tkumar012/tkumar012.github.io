@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 FEB 2022 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 FEB 2022 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -945,59 +945,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--89
 []|[]\OT1/LinuxLibertineT-TLF/m/n/10.95 Peer-reviewed
  []
 
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/it' will be
 (Font)              scaled to size 10.95pt on input line 89.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 92.
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 64--105
+Overfull \hbox (31.99997pt too wide) in alignment at lines 64--106
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 []|\OT1/LinuxLibertineT-TLF/m/n/10.95 Working
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 105--149
+Overfull \hbox (31.99997pt too wide) in alignment at lines 106--150
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 149--180
+Overfull \hbox (31.99997pt too wide) in alignment at lines 150--181
  [] [] 
  []
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 180--214
+Overfull \hbox (31.99997pt too wide) in alignment at lines 181--215
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.214 
+l.215 
        [2]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 214--215
+Overfull \hbox (31.99997pt too wide) in alignment at lines 215--216
  [] [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 219.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.218 \end{document}
+l.219 \end{document}
                      [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 219.
  (/Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 219.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 219.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 219.
  ) 
 Here is how much of TeX's memory you used:
  11033 strings out of 493089
@@ -1008,7 +1008,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  35i,9n,43p,1045b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_xogrpz.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_zajy4r.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_lu7m2n.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_c7kyj5.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (3 pages, 285291 bytes).
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (3 pages, 285277 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
