@@ -33,7 +33,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ## In Progress
 
-"Housing as welfare: how government-supported homeownership  redistributes wealth, creates dignity, and forms local-level interest groups in urban India." *Book manuscript in preparation*
+"Housing as welfare: how government-supported homeownership generates wealth, voice and dignity in India." *Book manuscript in preparation*
 
 "How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft available upon request*
 	
