@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /Research/
+title: Papers
+permalink: /Papers/
 order: 3
 ---
 
@@ -31,9 +31,8 @@ Kumar, T., ["The housing quality, income, and human capital effects of subsidize
 Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
 
 
-## In Progress
+## Working Papers
 
-"Housing as welfare: how government-supported homeownership builds wealth, voice, and dignity in India." *Book manuscript in preparation*
 
 "How the content of claims shapes government responsiveness: theory and evidence from Mumbai." *Draft available upon request*
 	
@@ -41,11 +40,5 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 "Why we should study smaller cities" (with Matthew Stenberg). *Draft available upon request*.
 	
 	
-"Citizenship practice in India's middle-class unauthorized colonies" (with Adam Auerbach). *Funding acquired, data collection in progress*.
-		
-	
-"An experimental analysis of the impact of smartphones and household property rights on the uptake of digital financial services in Blantyre, Malawi" (Peter Carroll, Boniface Dulani, Daniel Nielson, and Philip Roessler). *Intervention in field*.
-
-	 
 
 	
