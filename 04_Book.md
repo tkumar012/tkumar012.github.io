@@ -17,7 +17,7 @@ order: 4
 
 
 ## Housing as Welfare
-### How government-supported homeownership generates social mobility through wealth, voice, and dignity in India
+### How subsidized homeownership generates social mobility through wealth, voice, and dignity in India
 
 Governments can help their citizens find shelter in a number of different ways, but there is something unique about helping households purchase a large, durable asset that they can use, rent, or sell as they wish. The support housing provides to families is in-kind, but when it is owned and can easily be bought or sold, its benefits approach those of pure income transfers. There are reasons to believe, moreover, that transfers made through housing may be more politically expedient than something like a basic income guarantee. 
 	
