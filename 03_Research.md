@@ -19,7 +19,7 @@ order: 3
 ## Peer-reviewed Publications
 
 
-Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., and Sierra-Arevalo, M.  "Organizational identity and positionality in randomized control trials: considerations and advice for collaborative research teams." Accepted, *PS: Political Science and Politics.*
+Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., and Sierra-Arevalo, M.  ["Organizational identity and positionality in randomized control trials: considerations and advice for collaborative research teams."](https://doi.org/10.1017/S1049096522000026) Accepted, *PS: Political Science and Politics.*
 
 
 Kumar, T., ["Home-price subsidies increase local-level political participation in urban India"](https://doi.org/10.1086/715605) *Journal of Politics.* 84, 2022.[[Pre-print]]((claims.pdf)) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
