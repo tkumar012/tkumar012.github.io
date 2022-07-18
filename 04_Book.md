@@ -26,11 +26,3 @@ This book explores the idea of housing as welfare.  The idea highlights the econ
 
 *Manuscript in progress, chapters available upon request*
 
-*Related papers*
-
-
-Kumar, T., ["Home-price subsidies increase local-level political participation in urban India"](https://doi.org/10.1086/715605) *Journal of Politics.* 84, 2022.
-
-
-Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India"](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics* 153: 102738, 2021. 
- 
