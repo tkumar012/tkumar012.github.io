@@ -15,4 +15,6 @@ order: 4
   gtag('config', 'UA-111923831-1');
 </script>
 
+Nature of Inquiry, AKA Introduction to Data and Research Design in Social Science. Fall 2022, Claremont Graduate University.  [[Syllabus]](PP 480 Syllabus.pdf) 
+
 Political Behavior in Developing Democracies. Fall 2021, William & Mary.  [[Syllabus]](Behavior_WM.pdf) 
