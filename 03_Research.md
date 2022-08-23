@@ -18,7 +18,7 @@ order: 3
 
 ## Peer-reviewed Publications
 
-Kumar, T. and Stenberg, M. "Why political scientists should study smaller cities" (with Matthew Stenberg). Forthcoming, *Urban Affairs Review*.[[Pre-print]](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
+Kumar, T. and Stenberg, M. "Why political scientists should study smaller cities". Forthcoming, *Urban Affairs Review*.[[Pre-print]](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
 	
 
 
