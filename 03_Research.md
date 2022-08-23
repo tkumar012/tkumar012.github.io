@@ -18,8 +18,11 @@ order: 3
 
 ## Peer-reviewed Publications
 
+Kumar, T. and Stenberg, M. "Why political scientists should study smaller cities" (with Matthew Stenberg). Forthcoming, *Urban Affairs Review*.[[Pre-print](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
+	
 
-Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., and Sierra-Arevalo, M.  ["Organizational identity and positionality in randomized control trials: considerations and advice for collaborative research teams."](https://doi.org/10.1017/S1049096522000026) Accepted, *PS: Political Science and Politics.*
+
+Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., and Sierra-Arevalo, M.  ["Organizational identity and positionality in randomized control trials: considerations and advice for collaborative research teams."](https://doi.org/10.1017/S1049096522000026), *PS: Political Science and Politics.*
 
 
 Kumar, T., ["Home-price subsidies increase local-level political participation in urban India"](https://doi.org/10.1086/715605) *Journal of Politics.* 84, 2022.[[Pre-print]](claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
@@ -36,8 +39,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
  "How the content of demands shapes government responsiveness: theory and evidence from Mumbai." *Draft available upon request*.
 
-"Why political scientists should study smaller cities" (with Matthew Stenberg). Conditionally accepted, *Urban Affairs Review*.
-	
+
 	
 
 	
