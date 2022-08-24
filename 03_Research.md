@@ -37,8 +37,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 ## Working Papers
 
 
- "How the content of demands shapes government responsiveness: theory and evidence from Mumbai." *Draft available upon request*.
-
+ ["How the content of demands shapes government responsiveness: theory and evidence from Mumbai."](complaintsresponsiveness.pdf) 
 
 	
 

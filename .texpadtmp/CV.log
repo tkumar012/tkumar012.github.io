@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 AUG 2022 07:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 AUG 2022 16:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -834,39 +834,29 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/b/n' will be
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 90.
 
-Overfull \hbox (31.99995pt too wide) in alignment at lines 65--105
+Overfull \hbox (31.99997pt too wide) in alignment at lines 65--102
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-[]|\OT1/LinuxLibertineT-TOsF/m/n/10 Other Aca-demic
- []
-
-
-Overfull \hbox (31.99995pt too wide) in alignment at lines 105--156
+Overfull \hbox (31.99997pt too wide) in alignment at lines 102--156
  [] [] 
  []
 
 
-Overfull \hbox (31.99995pt too wide) in alignment at lines 156--208
+Overfull \hbox (31.99997pt too wide) in alignment at lines 156--208
  [] [] 
  []
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 2409) in paragraph at lines 266--266
-[]|[]\OT1/LinuxLibertineT-TOsF/m/n/10 Activities in the
- []
-
-
-Overfull \hbox (31.99995pt too wide) in alignment at lines 208--267
+Overfull \hbox (31.99997pt too wide) in alignment at lines 208--267
  [] [] 
  []
 
 
-Overfull \hbox (31.99995pt too wide) in alignment at lines 267--278
+Overfull \hbox (31.99997pt too wide) in alignment at lines 267--278
  [] [] 
  []
 
@@ -892,16 +882,16 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
 Here is how much of TeX's memory you used:
  10109 strings out of 493089
  151347 string characters out of 6134842
- 273374 words of memory out of 5000000
+ 273373 words of memory out of 5000000
  13442 multiletter control sequences out of 15000+600000
  10765 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,6n,43p,1202b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (3 pages, 260502 bytes).
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (3 pages, 260767 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
