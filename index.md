@@ -21,7 +21,8 @@ order: 1
 I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). 
 
 
-I study the behavior of citizens and officials in low- and middle-income countries, with a focus on local politics. Following a wave of decentralization in the late 20th century, citizens are increasingly able to directly make demands of local officials. In my research, I study how housing, new modes of civic participation, and digital inclusion have shaped citizens’ place in the political arena and whether these emerging trends generate more equitable outcomes in service delivery. My regional expertise is in urban India.
+
+How do individuals interact with government, and can their actions effect change? Much of the work on this question in low- and middle-income countries examines  behavior around election time. I study instead the behavior of citizens and bureaucrats in everyday politics at the local-level, a political arena that has become much more important in the last twenty years. Currently, I study how three emerging trends, namely housing policies, new or understudied modes of civic participation, and digital inclusion can amplify citizen voice. My regional expertise is in urban India.
 
 Check out some media coverage of this work in [The Washington Post](https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/31/heres-what-gavin-newsom-elizabeth-warren-and-microsoft-should-know-if-want-to-end-the-affordable-housing-crisis/?tid=sm_tw_cage), [The Times of India](https://timesofindia.indiatimes.com/city/mumbai/mhada-home-winners-see-upswing-in-family-edu-pay-in-mumbai-study/articleshow/86468320.cms),  and this [podcast](https://www.discoursemagazine.com/politics/2020/12/24/ideas-of-india-how-does-subsidizing-housing-prices-shape-political-behavior/). 
 
