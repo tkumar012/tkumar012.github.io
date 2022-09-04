@@ -15,7 +15,7 @@ order: 1
 </script>
 
 
-<img style="float: left;padding-right: 20px;" src="picture2.png"  width="40%" height="40%">
+<img style="float: left;padding-right: 20px;" src="picture2.png"  width="35%" height="35%">
 
 
 I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). 
