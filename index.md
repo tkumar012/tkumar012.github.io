@@ -20,7 +20,7 @@ order: 1
 
 I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). 
 
-Citizens almost universally feel that their national-level governments are out of touch with their needs. How can individuals create change in their own communities?
+Citizens almost universally feel that their national-level governments are out of touch with their needs. How can individuals create change in their own communities? 
 
  I study the behavior of citizens and bureaucrats in everyday politics at the local-level, a political arena that has become much more important in the last twenty years. Currently, I study how growth in three areas, namely housing policies, new or understudied modes of civic participation, and digital inclusion can amplify citizen voice. My regional expertise is in urban India.
 
