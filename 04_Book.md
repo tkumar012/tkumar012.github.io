@@ -24,8 +24,7 @@ Governments can help their citizens find shelter in a number of different ways, 
 
  I argue that subsidized homeownership helps even the poorest households build wealth, exercise their voice as citizens, and live with dignity--in both rural and urban areas. As I trace out how the policy shapes different aspects of citizen behavior, I also illustrate how wealth and dignity shape civic participation, ideas that are relatively unexplored in the literature on political behavior in LMICs.
 		
-This book explores the idea of housing as welfare.  It highlights the economic and political role housing can take in a government's portfolio of policies, but also broadens notions about what welfare programs can be and accomplish. The widespread implementation of subsidized homeownership, moreover, suggests that transfers made through housing may be more politically expedient than something like a basic income guarantee. 
- 
+This book explores the idea of housing as welfare.  It highlights the economic and political role housing can take in a government's portfolio of policies, but also broadens notions about what welfare programs can be and accomplish.  
 
  
 
