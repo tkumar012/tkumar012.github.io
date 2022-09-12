@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 SEP 2022 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 SEP 2022 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,24 +851,20 @@ Overfull \hbox (31.99997pt too wide) in alignment at lines 153--198
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 198--259
+Overfull \hbox (31.99997pt too wide) in alignment at lines 198--261
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 259--302
+Overfull \hbox (31.99997pt too wide) in alignment at lines 261--312
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.302 
-       [2]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 302--312
- [] [] 
- []
-
+l.312 \end{longtable}
+                      [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
@@ -892,7 +888,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  35i,6n,43p,1202b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (3 pages, 261644 bytes).
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (3 pages, 261572 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
