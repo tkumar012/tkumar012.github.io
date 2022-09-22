@@ -29,7 +29,7 @@ Check out some media coverage of this work in [The Washington Post](https://www.
 
 
 
-I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar and won a Best Dissertation Award (Honorable Mention) from APSA's Urban and Local Politics Section. 
+I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
 I am co-organizing a workshop on Urban Politics in the Global South. Learn more [here](https://www.globalsouthurbanpols.com)!
 
