@@ -6,9 +6,9 @@ order: 6
 ---
 
 
+Office: McManus 230
 
-
-Email: tkumar08[at]gmail[dot]com
+Email: tkumar08[]gmail[]com
 
 Twitter: @tanu_kumar1
 
