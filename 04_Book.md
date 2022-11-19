@@ -28,7 +28,7 @@ These asset transfers further change citizens' sense of dignity. The flexibility
 Wealth and dignity, in turn, fundamentally shape how citizens participate in the broader political arena. They are emboldened  to make demands of their local government. They are, furthermore,  especially motivated to do so as they seek to advance their own interests and protect the value of their new homes. 	
 
 	
-Based on studies of three housing policies, administrative data, household surveys, a natural experiment, and in-depth qualitative interviews,  I argue that subsidized homeownership helps even the poorest households build wealth, live with dignity, and exercise their voice as citizens--in both rural and urban areas.  
+Based on studies of three housing policies, administrative data, household surveys, a natural experiment, an 18 year panel study,  and in-depth qualitative interviews,  I argue that subsidized homeownership helps even the poorest households build wealth, live with dignity, and exercise their voice as citizens--in both rural and urban areas.  
 
 *Manuscript in progress, chapters available upon request*
 
