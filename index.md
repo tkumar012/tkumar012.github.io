@@ -18,7 +18,7 @@ order: 1
 <img style="float: left;padding-right: 20px;" src="picture2.png"  width="35%" height="35%">
 
 
-I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am also a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg..
+I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am also a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg.
 
 
 Citizens almost universally feel that their national-level governments are out of touch with their needs. How can they create change in their own communities? 
