@@ -18,10 +18,10 @@ order: 1
 <img style="float: left;padding-right: 20px;" src="picture2.png"  width="35%" height="35%">
 
 
-I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am also a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu).
+I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am also a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg..
 
 
-Citizens almost universally feel that their national-level governments are out of touch with their needs. How can individuals create change in their own communities? 
+Citizens almost universally feel that their national-level governments are out of touch with their needs. How can they create change in their own communities? 
 
  I study the behavior of citizens and bureaucrats in everyday politics at the local-level, a political arena that has become much more important in the last twenty years. Currently, I study how growth in three areas, namely housing policies, new or understudied modes of civic participation, and digital inclusion can amplify citizen voice. My regional expertise is in urban India.
 
@@ -31,7 +31,7 @@ Check out some media coverage of this work in [The Washington Post](https://www.
 
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
-I am co-organizing a workshop on Urban Politics in the Global South. Learn more [here](https://www.globalsouthurbanpols.com)!
+
 
 Photo by [Bhumi Purohit](https://www.bhumipurohit.com)
 

@@ -15,6 +15,7 @@ order: 3
   gtag('config', 'UA-111923831-1');
 </script>
 
+If you can't access something, email me! Please do not buy access to a paper--I'll send it to you for free.
 
 ## Peer-reviewed Publications
 
