@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 DEC 2022 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JAN 2023 10:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -834,12 +834,12 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/b/n' will be
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 93.
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 65--100
+Overfull \hbox (31.99997pt too wide) in alignment at lines 65--101
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 100--141
+Overfull \hbox (31.99997pt too wide) in alignment at lines 101--141
  [] [] 
  []
 
@@ -851,61 +851,68 @@ Overfull \hbox (31.99997pt too wide) in alignment at lines 141--187
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TOsF on input line 217.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TOsF.fd
+File: TS1LinuxLibertineT-TOsF.fd 2012/11/26 (autoinst) Font definitions for TS1/LinuxLibertineT-TOsF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TOsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 217.
+
 Overfull \hbox (31.99997pt too wide) in alignment at lines 187--235
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 235--274
+Overfull \hbox (31.99997pt too wide) in alignment at lines 235--269
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274  &
-         Economics of Cities and Development, Johns Hopkins University\\ [2]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 274--323
+l.269  &
+        Inequality and Policy Research Center, Claremont Graduate University\\ [2]
+Overfull \hbox (31.99997pt too wide) in alignment at lines 269--321
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 323--349
+Overfull \hbox (31.99997pt too wide) in alignment at lines 321--351
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.349 \end{longtable}
+l.351 \end{longtable}
                       [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.352 \end{document}
+l.354 \end{document}
                      [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
  (/Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 352.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 354.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 354.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 352.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
  ) 
 Here is how much of TeX's memory you used:
- 10109 strings out of 493089
- 151347 string characters out of 6134842
+ 10136 strings out of 493089
+ 152227 string characters out of 6134842
  274373 words of memory out of 5000000
- 13442 multiletter control sequences out of 15000+600000
- 10765 words of font info for 24 fonts, out of 8000000 for 9000
+ 13463 multiletter control sequences out of 15000+600000
+ 11468 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,9n,43p,1202b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 265534 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 266999 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
