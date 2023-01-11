@@ -32,11 +32,6 @@ Kumar, T., ["The housing quality, income, and human capital effects of subsidize
 Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
 
 
-## Working Papers
 
-
- ["How the content of demands shapes government responsiveness: theory and evidence from Mumbai."](complaintsresponsiveness.pdf) 
-
-	
 
 	
