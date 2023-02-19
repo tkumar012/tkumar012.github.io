@@ -15,9 +15,9 @@ order: 3
   gtag('config', 'UA-111923831-1');
 </script>
 
-If you can't access something, email me! Please do not buy access to a paper--I'll send it to you for free.
+If you can't access something, email me! 
 
-## Peer-reviewed Publications
+## Peer-reviewed publications
 
 Kumar, T. and Stenberg, M. ["Why political scientists should study smaller cities."](https://doi.org/10.1177/10780874221124610) OnlineFirst, *Urban Affairs Review*.[[Pre-print]](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
 	
@@ -33,5 +33,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 
 
+## Available working papers
 
+"The content of demands shapes government responsiveness: theory and evidence from Mumbai."(responsiveness.pdf)
 	
