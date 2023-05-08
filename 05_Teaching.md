@@ -24,4 +24,4 @@ Political Behavior in Developing Democracies. Fall 2021, William & Mary and Spri
 
 ## Other stuff
 
-[Presentation on how to get your research funded.](How to get your research funded.pdf)
+[Presentation on how to get your research funded](How to get your research funded.pdf)
