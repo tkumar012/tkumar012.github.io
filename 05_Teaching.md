@@ -22,5 +22,6 @@ Nature of Inquiry, AKA Introduction to Data and Research Design in Social Scienc
 
 Political Behavior in Developing Democracies. Fall 2021, William & Mary and Spring 2022, 2023 Claremont Graduate University.  [[Syllabus]](SPE 353 S 23 syllabus.pdf) 
 
+## Other stuff
 
 [Presentation on how to get your research funded.](How to get your research funded.pdf)
