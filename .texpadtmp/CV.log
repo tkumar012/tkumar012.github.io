@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 MAY 2023 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 MAY 2023 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -844,12 +844,12 @@ Overfull \hbox (31.99997pt too wide) in alignment at lines 65--100
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 100--142
+Overfull \hbox (31.99997pt too wide) in alignment at lines 100--145
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 142--187
+Overfull \hbox (31.99997pt too wide) in alignment at lines 145--191
  [] [] 
  []
 
@@ -863,49 +863,44 @@ File: TS1LinuxLibertineT-TOsF.fd 2012/11/26 (autoinst) Font definitions for TS1/
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TOsF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 222.
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 187--224
+Overfull \hbox (31.99997pt too wide) in alignment at lines 191--231
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 224--263
- [] [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.263        &
-              Brown-Harvard-MIT Joint Seminar in South Asian Politics, Harva... [2]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 263--293
- [] [] 
- []
-
-
-Overfull \hbox (31.99997pt too wide) in alignment at lines 293--334
+Overfull \hbox (31.99997pt too wide) in alignment at lines 231--266
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.334 &
-       Lama Shaiekh, Dissertation committee \\ [3]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 334--367
+l.266            &
+                  Housing Politics and Policy Conference, Princeton Universi... [2]
+Overfull \hbox (31.99997pt too wide) in alignment at lines 266--296
+ [] [] 
+ []
+
+
+Overfull \hbox (31.99997pt too wide) in alignment at lines 296--337
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.367 \end{longtable}
-                      [4]
+l.337 
+       [3]
+Overfull \hbox (31.99997pt too wide) in alignment at lines 337--367
+ [] [] 
+ []
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.370 \end{document}
-                     [5]
+                     [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 370.
  (/Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 370.
@@ -917,16 +912,16 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
 Here is how much of TeX's memory you used:
  10137 strings out of 493089
  152242 string characters out of 6134842
- 276385 words of memory out of 5000000
+ 275385 words of memory out of 5000000
  13464 multiletter control sequences out of 15000+600000
  11468 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,9n,43p,1202b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (5 pages, 268654 bytes).
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 268035 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
