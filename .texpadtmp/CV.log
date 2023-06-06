@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 MAY 2023 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUN 2023 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -844,70 +844,70 @@ Overfull \hbox (31.99997pt too wide) in alignment at lines 65--100
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 100--145
+Overfull \hbox (31.99997pt too wide) in alignment at lines 100--139
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 145--191
+Overfull \hbox (31.99997pt too wide) in alignment at lines 139--190
  [] [] 
  []
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TOsF on input line 222.
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TOsF on input line 223.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TOsF.fd
 File: TS1LinuxLibertineT-TOsF.fd 2012/11/26 (autoinst) Font definitions for TS1/LinuxLibertineT-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TOsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 222.
+(Font)              scaled to size 10.0pt on input line 223.
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 191--231
+Overfull \hbox (31.99997pt too wide) in alignment at lines 190--226
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 231--266
+Overfull \hbox (31.99997pt too wide) in alignment at lines 226--267
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266            &
+l.267            &
                   Housing Politics and Policy Conference, Princeton Universi... [2]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 266--296
+Overfull \hbox (31.99997pt too wide) in alignment at lines 267--297
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 296--337
+Overfull \hbox (31.99997pt too wide) in alignment at lines 297--338
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.337 
-       [3]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 337--367
+l.338 &
+       Ibrahim Alsuhaibani, Dissertation committee\\ [3]
+Overfull \hbox (31.99997pt too wide) in alignment at lines 338--364
  [] [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 367.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.370 \end{document}
+l.367 \end{document}
                      [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 370.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 367.
  (/Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 370.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 370.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 367.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 367.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 367.
  ) 
 Here is how much of TeX's memory you used:
  10137 strings out of 493089
@@ -918,7 +918,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  35i,9n,43p,1202b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 268035 bytes).
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 266972 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
