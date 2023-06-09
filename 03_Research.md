@@ -37,6 +37,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ["The content of demands shapes government responsiveness: theory and evidence from Mumbai."](responsiveness.pdf)
 
-["Politics in the Urban Periphery: Citizen-Led Expansion and Informality at the Edges of India's Cities."](https://gld.gu.se/media/2985/gld_workingpaper_63_auerbachkumar_202303.pdf) with Adam Auerbach. 
+["Politics in the urban periphery: Citizen-led expansion and informality at the edges of India's cities."](https://gld.gu.se/media/2985/gld_workingpaper_63_auerbachkumar_202303.pdf) with A. Auerbach. 
 
+"When do local governments improve transparency? Bureaucratic champions for open transit data in California" w/ I. Ratan, A. Post, and M. Sheth. *Paul Sabatier Award for the best paper on science, technology, and environmental politics, APSA 2022. Manuscript available upon request*
 
