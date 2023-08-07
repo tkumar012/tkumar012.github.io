@@ -21,7 +21,7 @@ order: 1
 I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am also a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg.
 
 
-I study the political behavior of middle-class citizens and bureaucrats in India. These individuals are at the center of institutions for local governance in low- and middle-income countries, but we know little about how they make decisions and interact with each other. My theoretical approach emphasizes the role of variables such as political capacity, economic incentives, emotion, and dignity. 
+I study the political behavior of middle-class citizens and bureaucrats in India. These individuals are at the center of institutions for local governance here, but we know little about how they make decisions and interact with each other. My theoretical approach emphasizes the role of variables such as political capacity, economic incentives, emotion, and dignity. 
 
 I rely on field studies, primary data collection, qualitative methods, and creative strategies for causal inference to shed light on the everyday lives of these understudied actors who are particularly important given trends of middle-class expansion and decentralization in India.
 
