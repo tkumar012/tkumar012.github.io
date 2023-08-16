@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 AUG 2023 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 AUG 2023 09:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -844,12 +844,12 @@ Overfull \hbox (31.99997pt too wide) in alignment at lines 65--103
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 103--145
+Overfull \hbox (31.99997pt too wide) in alignment at lines 103--147
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 145--190
+Overfull \hbox (31.99997pt too wide) in alignment at lines 147--191
  [] [] 
  []
 
@@ -863,26 +863,26 @@ File: TS1LinuxLibertineT-TOsF.fd 2012/11/26 (autoinst) Font definitions for TS1/
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TOsF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 220.
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 190--229
+Overfull \hbox (31.99997pt too wide) in alignment at lines 191--232
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 229--267
+Overfull \hbox (31.99997pt too wide) in alignment at lines 232--268
  [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.267  &
-        Global Politics Series, University of Virginia\\ [2]
-Overfull \hbox (31.99997pt too wide) in alignment at lines 267--347
+l.268 &
+       Complex Governance Seminar, American University\\ [2]
+Overfull \hbox (31.99997pt too wide) in alignment at lines 268--350
  [] [] 
  []
 
 
-Overfull \hbox (31.99997pt too wide) in alignment at lines 347--393
+Overfull \hbox (31.99997pt too wide) in alignment at lines 350--393
  [] [] 
  []
 
@@ -908,13 +908,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
 Here is how much of TeX's memory you used:
  10137 strings out of 493089
  152242 string characters out of 6134842
- 274385 words of memory out of 5000000
+ 275385 words of memory out of 5000000
  13464 multiletter control sequences out of 15000+600000
  11468 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,9n,43p,1202b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_j6rzs3.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/libertine/lbtn_ewm74v.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 266453 bytes).
+Output written on /Users/Tanu/Dropbox/website/tkumar012.github.io/.texpadtmp/CV.pdf (4 pages, 266565 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
