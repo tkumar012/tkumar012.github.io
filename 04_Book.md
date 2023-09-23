@@ -17,7 +17,7 @@ order: 4
 
 
 ## Building social mobility
-### How subsidized homeownership creates wealth, voice, and dignity in India
+### How subsidized homeownership creates wealth, dignity, and voice in India
 
  How do programs that subsidize homeownership shape the lives, behavior, and futures of these citizens? Generally, rural housing programs in India are criticized for providing citizens with poor quality shelters that do not meet their needs. Urban public housing programs suffer from the same problem, and also relocate beneficiaries to greenfield sites that are close to health hazards and far from work, family, and friends. These issues are not so different from the ones that plague large public housing projects in the United States, like Chicago's Cabrini-Green homes or Pruitt-Igoe public housing in St. Louis.
  
