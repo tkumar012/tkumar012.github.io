@@ -5,17 +5,15 @@ permalink: /Papers/
 order: 3
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111923831-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-95H7WJPKDP"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-111923831-1');
-</script>
-
-If you can't access something, email me! 
+  gtag('config', 'G-95H7WJPKDP');
+</script>If you can't access something, email me! 
 
 ## Peer-reviewed publications
 

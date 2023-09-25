@@ -2,19 +2,17 @@
 layout: page
 title: Teaching
 permalink: /Teaching/
-order: 4
+order: 5
 ---
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111923831-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-95H7WJPKDP"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-111923831-1');
+  gtag('config', 'G-95H7WJPKDP');
 </script>
-
 Comparative Public Policy. Fall 2023, Claremont Graduate University.[[Syllabus]](SPE 354.pdf)
 
 International Development: Institutions, Households, and Policy, AKA Development Economics. Spring 2023, Claremont Graduate University. [[Syllabus]](SPE 359 S 23 syllabus.pdf)
