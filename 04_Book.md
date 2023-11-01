@@ -31,5 +31,5 @@ Based on studies of three housing policies, administrative data, household surve
 
 Ultimately, this is a book about both policy and behavior. I explore the effects of a widespread yet understudied policy on individual behavior. Through the process, I reveal novel theoretical insights about how upwardly mobile citizens make decisions.   
 
-Under review. Read a sample [here](writing_sample_kumar.pdf). 
+Under review. Read a sample [here](writing_sample_kumar.pdf). A full overview is available in the [prospectus](prospectus_website.pdf).
 
