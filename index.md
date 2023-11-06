@@ -26,7 +26,6 @@ I rely on field studies, primary data collection, qualitative methods, and creat
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
 
-
 Photo by [Bhumi Purohit](https://www.bhumipurohit.com)
 
 
