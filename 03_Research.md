@@ -35,7 +35,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 [Pre-analysis Plan: "Voice and Response: Citizens and bureaucrats at the frontlines of local democracy in rural India"](https://osf.io/rtwq5) with G. Kruks-Wisner.
 
-["The content of demands shapes government responsiveness: theory and evidence from Mumbai."](responsiveness.pdf)
+"The content of demands shapes government responsiveness: theory and evidence from Mumbai." Currently under revision. 
 
 ["Politics in the urban periphery: Citizen-led expansion and informality at the edges of India's cities."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560168) with A. Auerbach. 
 
