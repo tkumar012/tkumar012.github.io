@@ -27,7 +27,7 @@ Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., 
 
 Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India."](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics* 153: 102738, 2021. [[Pre-print]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
  
-Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL) 
+Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
 
 
 
