@@ -27,6 +27,8 @@ I completed my PhD in Political Science at the University of California, Berkele
 
 I co-organize an annual conference on urban politics in the global south. Check it out [here!](https://www.globalsouthurbanpols.com)
 
+If you need a letter of recommendation, please fill out [the form here](https://forms.gle/nLL4fb1GnERTyofu5).
+
 
 Photo by [Bhumi Purohit](https://www.bhumipurohit.com)
 

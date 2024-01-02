@@ -24,4 +24,7 @@ Political Behavior in Developing Democracies. Fall 2021, William & Mary and Spri
 
 ## Other stuff
 
+If you need a letter of recommendation, please fill out [the form here](https://forms.gle/nLL4fb1GnERTyofu5).
+
+
 [Presentation on how to get your research funded](How to get your research funded.pdf)
