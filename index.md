@@ -16,12 +16,12 @@ order: 1
 <img style="float: left;padding-right: 20px;" src="picture2.png"  width="35%" height="35%">
 
 
-I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am also a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg.
+I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am currently a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and  was a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg in 2023.
 
 
-I study the political behavior of middle-class citizens and bureaucrats in India. These individuals are at the center of institutions for local governance here, but we know little about how they make decisions and interact with each other. My theoretical approach emphasizes the role of variables such as political capacity, economic incentives, emotion, and dignity. 
+I study how everyday citizens can improve governance in India. I focus on their demands for improved service delivery along with the conditions under which government officials, particularly those who are not usually elected, will respond. My theoretical approach emphasizes the role of variables such as political capacity, economic and organizational incentives, emotion, and dignity, which are increasingly important given trends of middle-class growth in India.
 
-I rely on field studies, primary data collection, qualitative methods, and creative strategies for causal inference to shed light on the everyday lives of these understudied actors who are particularly important given trends of middle-class expansion and decentralization in India.
+I rely on field studies, primary data collection, qualitative methods, and creative strategies for causal inference to shed light on the potential for social accountability in contexts where existing literature would suggest its prospects seem weak. 
 
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
