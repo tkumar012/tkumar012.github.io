@@ -13,21 +13,21 @@ order: 3
   gtag('js', new Date());
 
   gtag('config', 'G-95H7WJPKDP');
-</script>If you can't access something, email me! 
+</script>
 
 ## Peer-reviewed publications
 
-Kumar, T. and Stenberg, M. ["Why political scientists should study smaller cities."](https://doi.org/10.1177/10780874221124610) OnlineFirst, *Urban Affairs Review*.[[Pre-print]](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
+Kumar, T. and Stenberg, M. ["Why political scientists should study smaller cities."](https://doi.org/10.1177/10780874221124610) 2023, *Urban Affairs Review*.[[Pre-print]](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
 	
-Kumar, T., ["Home-price subsidies increase local-level political participation in urban India."](https://doi.org/10.1086/715605) *Journal of Politics.* 84, 2022.[[Pre-print]](claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
+Kumar, T., ["Home-price subsidies increase local-level political participation in urban India."](https://doi.org/10.1086/715605) *Journal of Politics.* 2022.[[Pre-print]](claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
 
-Kumar, T., Post A., Ray, I., Otsuka, M., and Pardo-Bosch, F. ["From public service access to service quality: The distributive politics of piped water in Bangalore."](https://doi.org/10.1016/j.worlddev.2021.105736) *World Development* 151: 105736, 2022. [[Pre-print]](intermittency.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL)
+Kumar, T., Post A., Ray, I., Otsuka, M., and Pardo-Bosch, F. ["From public service access to service quality: The distributive politics of piped water in Bangalore."](https://doi.org/10.1016/j.worlddev.2021.105736) *World Development.* 2022. [[Pre-print]](intermittency.pdf) [[Data and code]](https://doi.org/10.7910/DVN/NRRKLL)
 
-Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., and Sierra-Arevalo, M.  ["Organizational identity and positionality in randomized control trials: considerations and advice for collaborative research teams."](https://doi.org/10.1017/S1049096522000026) *PS: Political Science and Politics.*
+Haas, N., Haenschen K., Kumar, T., Panagopoulos, C., Peyton, K., Ravanilla, N., and Sierra-Arevalo, M.  ["Organizational identity and positionality in randomized control trials: considerations and advice for collaborative research teams."](https://doi.org/10.1017/S1049096522000026) *PS: Political Science and Politics.* 2022.
 
-Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India."](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics* 153: 102738, 2021. [[Pre-print]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
+Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India."](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics.*  2021. [[Pre-print]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)
  
-Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development* 106: 149-160, 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
+Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational interventions: A field experimental study of Bangalore's water Sector."](https://doi.org/10.1016/j.worlddev.2018.01.022)  *World Development.* 2018.[[Ungated]](WD_paper.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZMYDWN) 
 
 
 
