@@ -33,7 +33,8 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ## Available working papers
 
-[Pre-analysis Plan: "Voice and Response: Citizens and bureaucrats at the frontlines of local democracy in rural India"](https://osf.io/rtwq5) with G. Kruks-Wisner.
+"Democratizing bureaucracy: 
+Citizen voice and local government responsiveness in rural India" with G. Kruks-Wisner. [(Pre-analysis Plan)](https://osf.io/rtwq5) *Manuscript available upon request*
 
 ["How complaint type shapes bureaucratic responsiveness to citizens: Evidence from Mumbai’s water sector."](Kumar_digital_complaints.pdf)
 
