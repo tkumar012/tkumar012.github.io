@@ -34,7 +34,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 ## Available working papers
 
 ["Voice and Responsiveness:
-Citizen Strategies for Engaging Bureaucrats in India" with G. Kruks-Wisner.(GKW_TK_Voice_Responsiveness_June10.pdf)
+Citizen Strategies for Engaging Bureaucrats in India" with G. Kruks-Wisner.](GKW_TK_Voice_Responsiveness_June10.pdf)
 
 
 
