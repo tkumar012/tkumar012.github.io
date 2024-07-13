@@ -17,7 +17,7 @@ order: 3
 
 ## Peer-reviewed publications
 
-Kumar, T. "How the content of digital complaints shapes bureaucratic responsiveness in Mumbai."Forthcoming, *Governance.* [[Pre-print]](Kumar_digital_complaints2.pdf)
+Kumar, T. "How the content of digital complaints shapes bureaucratic responsiveness in Mumbai."Forthcoming, *Governance.* [[Pre-print]](Kumar_digital_complaints.pdf)
 
 
 Kumar, T. and Stenberg, M. ["Why political scientists should study smaller cities."](https://doi.org/10.1177/10780874221124610) 2023, *Urban Affairs Review*.[[Pre-print]](whyweshouldstudysmallercities.pdf) [[Appendices]](Appendix_UAR.pdf)
@@ -38,8 +38,6 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ["Voice and responsiveness:
 Citizen strategies for engaging bureaucrats in India"](https://tanukumar.com/Voice_Responsiveness.pdf) with G. Kruks-Wisner.
-
-
 
 
 
