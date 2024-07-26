@@ -17,7 +17,7 @@ order: 3
 
 ## Peer-reviewed publications
 
-Kumar, T. ["How the content of digital complaints shapes bureaucratic responsiveness in Mumbai."](https://onlinelibrary.wiley.com/doi/10.1111/gove.12889) *Governance.* 2024. [[Pre-print]](Kumar_digital complaints.pdf)[[Data and code coming soon]]
+Kumar, T. ["How the content of digital complaints shapes bureaucratic responsiveness in Mumbai."](https://onlinelibrary.wiley.com/doi/10.1111/gove.12889) (Open Access) *Governance.* 2024. (Kumar_digital complaints.pdf)[[Data and code coming soon]]
 
 
 Kumar, T., ["Home-price subsidies increase local-level political participation in urban India."](https://doi.org/10.1086/715605) *Journal of Politics.* 2022.[[Pre-print]](claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
