@@ -38,8 +38,8 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ##  Working papers
 
-"Voice and responsiveness:
-Citizen strategies for engaging bureaucrats in India" with G. Kruks-Wisner.
+["Voice and response:
+How can citizens demand accountability from bureaucrats?"](voice_response.pdf) with G. Kruks-Wisner.
 
 
 ["Politics in the urban periphery: Citizen-led expansion and informality at the edges of India's cities."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560168) with A. Auerbach. 
