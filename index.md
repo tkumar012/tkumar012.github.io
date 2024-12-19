@@ -19,7 +19,7 @@ order: 1
 I am an Assistant Professor in the [Division of Politics and Economics](https://www.cgu.edu/school/ssspe/division-of-politics-economics/) at [Claremont Graduate University](https://www.cgu.edu). I am currently a faculty affiliate at the [Center for Effective Global Action](https://cega.berkeley.edu) and  was a non-resident fellow in the [Program on Governance and Local Development](https://gld.gu.se) at the University of Gothenburg in 2023.
 
 
-I study how citizens, bureaucrats, governance, and welfare in India. My policy expertise is in water, housing, and urbanization. I rely on field studies, primary data collection, qualitative methods, and creative strategies for causal inference to shed light on the potential for government accountability in contexts where existing research would suggest its prospects seem weak. 
+I study governance from the perspective of citizens, bureaucrats, and their interactions. My policy expertise is in water, housing, and urbanization in India. I rely on field studies, primary data collection, qualitative methods, and creative strategies for causal inference to shed light on the potential for government accountability in contexts where existing research would suggest its prospects seem weak. 
 
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
