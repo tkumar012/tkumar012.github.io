@@ -46,3 +46,6 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 "When do local governments improve transparency? Bureaucratic champions for open transit data in California" w/ I. Ratan, A. Post, and M. Sheth. *Paul Sabatier Award for the best paper on science, technology, and environmental politics, APSA 2022. Manuscript available upon request* 
 
 
+## Other writing
+
+[''Agency and autonomy at the margins of the Indian State.''](https://doi.org/10.1017/S1537592725000714) Review essay. *Perspectives on Politics*, 2025.
