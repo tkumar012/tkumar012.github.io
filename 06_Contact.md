@@ -14,9 +14,7 @@ order: 6
   gtag('config', 'G-95H7WJPKDP');
 </script>
 
-Office: McManus 230
 
 Email: tkumar08[]gmail[]com
 
-Twitter: @tanu_kumar1
 
