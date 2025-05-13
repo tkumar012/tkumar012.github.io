@@ -21,7 +21,6 @@ order: 4
 *In press, Cambridge University Press (Cambridge Studies in Comparative Politics)*
 
 
-<img style="float: center" src="assets/bookcover.png">
 
 
 This book is an in-depth exploration of how extremely widespread but understudied policies to subsidize homeownership in low- and middle-income countries shape beneficiaries' economic, social, and political behavior. I develop a multidimensional and cross-disciplinary theory that argues that these initiatives affect how citizens invest in the future, climb out of poverty, develop agency in their social relationships, and exert power in local politics.  I support the theory using a multi-method study of three policies in India. The evidence includes a natural experiment, original surveys, paired qualitative interviews, and an 18-year matched panel study. *Building Social Mobility* is a book about both housing and behavior: beyond assessing the effects of an important policy, it provides deep insights about how upwardly mobile citizens make decisions and the interactions between wealth, dignity, and voice in low- and middle-income countries.
