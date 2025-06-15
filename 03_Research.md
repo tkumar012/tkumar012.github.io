@@ -15,7 +15,6 @@ order: 3
   gtag('config', 'G-95H7WJPKDP');
 </script>
 
-## Peer-reviewed publications
 
 ["Politics in the urban periphery: Citizen-led expansion and informality at the edges of India's cities."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560168) with A. Auerbach. Forthcoming, *Journal of Development Studies.*
 
