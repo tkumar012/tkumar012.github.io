@@ -28,3 +28,9 @@ This book is an in-depth exploration of how extremely widespread but understudie
 Preorder [here](https://www.amazon.com/Building-Social-Mobility-Homeownership-Comparative/dp/1009636995/ref=tmm_pap_swatch_0).
 
 Read a sample [here](writing_sample_kumar.pdf).
+
+Related papers:
+
+Kumar, T., ["The housing quality, income, and human capital effects of subsidized homes in urban India."](https://doi.org/10.1016/j.jdeveco.2021.102738)  *Journal of Development Economics.*  2021. [[Pre-print]](housingecon.pdf) [[Data and code]](https://doi.org/10.7910/DVN/RSMVZJ)[[Appendices]](Appendices_hc.pdf) 
+
+Kumar, T., ["Home-price subsidies increase local-level political participation in urban India."](https://doi.org/10.1086/715605) *Journal of Politics.* 2022.[[Pre-print]](claims.pdf) [[Data and code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C4CLNR)
