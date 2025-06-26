@@ -41,7 +41,7 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 ##  Working papers
 
-["Democratizing bureaucracy: How can citizens demand accountability from bureaucrats?"](democratizing_bureaucracy.pdf) with G. Kruks-Wisner. *Best paper, Class and Inequality, APSA 2025.*
+["Democratizing bureaucracy: How can citizens demand accountability from bureaucrats?"](democratizing_bureaucracy.pdf) with G. Kruks-Wisner. *Best paper, Class and Inequality, APSA 2025.* Revise and Resubmit. 
 
 
 "(Un)Willing Partners? Citizen-bureaucrat collaboration in capacity-constrained settings" w/ G. Kruks-Wisner and D. Saunik. 
