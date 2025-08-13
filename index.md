@@ -23,7 +23,7 @@ I study governance from the perspective of citizens, bureaucrats, and their inte
 
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
-I co-organize an annual conference on urban politics in the global south. Check it out [here!](https://www.globalsouthurbanpols.com)
+I co-organize an annual conference on urban politics in the global south. Check it out [here!](https://www.globalsouthurbanpolitics.com)
 
 
 
