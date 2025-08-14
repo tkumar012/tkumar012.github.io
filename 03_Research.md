@@ -46,6 +46,8 @@ Kumar, T., Post, A., and Ray, I. ["Flows, leaks, and blockages in informational 
 
 "(Un)Willing Partners? Citizen-bureaucrat collaboration in capacity-constrained settings" w/ G. Kruks-Wisner and D. Saunik. 
 
+"Institutional capacity for development: an analytical framework" w/ G. Kim, R. Ramalho, and S. Russell. Development policy review for *World Development*.
+
 ## Other writing
 
 [''Agency and autonomy at the margins of the Indian State.''](https://doi.org/10.1017/S1537592725000714) Review essay. *Perspectives on Politics*, 2025.
