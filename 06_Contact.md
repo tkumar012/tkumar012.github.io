@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact 
+hide_title: true
 permalink: /contact/
 order: 6
 ---

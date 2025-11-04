@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Papers
+hide_title: true
 permalink: /Papers/
 order: 3
 ---
@@ -19,7 +20,8 @@ order: 3
 ["Politics in the urban periphery: Citizen-led expansion and informality at the edges of India's cities."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560168) with A. Auerbach. Forthcoming, *Journal of Development Studies.*
 
 
-["When do local governments improve transparency? Bureaucratic champions for open transit data in California"](https://journals.sagepub.com/doi/full/10.1177/10780874251357506) w/ I. Ratan, A. Post, and M. Sheth. *Paul Sabatier Award for the best paper on science, technology, and environmental politics, APSA 2022.* OnlineFirst, *Urban Affairs Review* 
+["When do local governments improve transparency? 
+Bureaucratic champions for open transit data in California"](https://journals.sagepub.com/doi/full/10.1177/10780874251357506) w/ I. Ratan, A. Post, and M. Sheth. *Paul Sabatier Award for the best paper on science, technology, and environmental politics, APSA 2022.* OnlineFirst, *Urban Affairs Review* 
 
 Kumar, T. ["How the content of digital complaints shapes bureaucratic responsiveness in Mumbai."](https://onlinelibrary.wiley.com/doi/10.1111/gove.12889) (Open Access) *Governance.* 2024.
 

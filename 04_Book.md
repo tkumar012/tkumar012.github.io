@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Book
+hide_title: true
 permalink: /Book/
 order: 4
 ---

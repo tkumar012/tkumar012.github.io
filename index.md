@@ -21,6 +21,8 @@ order: 1
 
 My research examines the determinants of state capacity at both local and macro levels. My earlier work analyzed how bureaucratic constraints and citizen engagement interact to shape local-level public service delivery, particularly in India. My current research at the World Bank expands this agenda to measure state capacity more broadly across countries and sectors. By integrating micro-level evidence on how citizens and frontline officials behave with cross-national indicators of institutional capability, I aim to identify the mechanisms through which effective states emerge and deliver for their citizens.
 
+
+
 I completed my PhD in Political Science at the University of California, Berkeley in May 2020. I have been named a Susan Clarke Young Scholar by APSA's Urban and Local Politics Section. 
 
 I co-organize an annual conference on urban politics in the global south. Check it out [here!](https://www.globalsouthurbanpolitics.com)
