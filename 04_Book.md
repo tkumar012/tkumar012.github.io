@@ -21,10 +21,7 @@ order: 4
   </div>
   <div style="flex: 1; min-width: 300px;">
     <p>
-      <em>Building Social Mobility</em> is an in-depth exploration of how extremely widespread but understudied policies to subsidize homeownership in low- and middle-income countries shape beneficiaries' economic, social, and political behavior. I develop a multidimensional and cross-disciplinary theory that argues that these initiatives affect how citizens invest in the future, climb out of poverty, develop agency in their social relationships, and exert power in local politics.  
-    </p>
-    <p>
-      I support the theory using a multi-method study of three policies in India. The evidence includes a natural experiment, original surveys, paired qualitative interviews, and an 18-year matched panel study. <em>Building Social Mobility</em> is a book about both housing and behavior: beyond assessing the effects of an important policy, it provides deep insights about how upwardly mobile citizens make decisions and the interactions between wealth, dignity, and voice in low- and middle-income countries.
+      Which policies can help households improve their economic, social and political status? <em>Building Social Mobility</em> is an in-depth exploration of how policies to subsidize homeownership in low- and middle-income countries shape beneficiaries' decision-making in nearly every facet of their lives. Tanu Kumar develops a multidimensional and cross-disciplinary theory that argues that these initiatives affect how citizens invest in the future, climb out of poverty, develop agency in their social relationships, and exert power in local politics. Kumar supports the theory using a multi-method study of three policies in India. Evidence includes a natural experiment, original surveys, paired qualitative interviews, and an 18-year matched panel study. <em>Building Social Mobility</em> is a book about both housing and behavior. It goes beyond assessing the effects of an important policy to provide deep insights about how upwardly mobile citizens make decisions and the interactions between wealth, dignity, and voice in low- and middle-income countries.
     </p>
     <p>
       Order <a href="https://www.amazon.com/Building-Social-Mobility-Homeownership-Comparative/dp/1009636995/ref=tmm_pap_swatch_0">here</a>.<br>
