@@ -15,10 +15,12 @@ order: 4
   gtag('config', 'G-95H7WJPKDP');
 </script>
 
-## Building social mobility
-### How subsidized homeownership creates wealth, dignity, and voice in India
-
-*In press, Cambridge University Press (Cambridge Studies in Comparative Politics)*
+<img 
+  src="{{ '/bookcover.png' | relative_url }}" 
+  alt="" 
+  style="display:block; margin:auto; width:70%; max-width:600px;"
+>
+*Cambridge University Press (Cambridge Studies in Comparative Politics), 2025*
 
 
 
