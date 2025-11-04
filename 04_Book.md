@@ -16,10 +16,11 @@ order: 4
 </script>
 
 <img 
-  src="{{ '/bookcover.png' | relative_url }}" 
-  alt="" 
-  style="display:block; margin:auto; width:70%; max-width:600px;"
+  src='{{ '/bookcover.png' | relative_url }}' 
+  alt=''
+  style='display:block; margin:auto; width:70%; max-width:600px;'
 >
+
 *Cambridge University Press (Cambridge Studies in Comparative Politics), 2025*
 
 
