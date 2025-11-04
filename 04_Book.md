@@ -18,7 +18,6 @@ order: 4
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap; margin-top: 1.5rem;">
   <div style="flex: 0 0 240px; text-align: center;">
     <img src="{{ '/bookcover.png' | relative_url }}" alt="" style="width:100%; max-width:240px; height:auto; border:1px solid #ddd; border-radius:4px;">
-    <p style="font-style: italic; margin-top: 0.5rem;">Cambridge University Press (Cambridge Studies in Comparative Politics), 2025</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <p>
@@ -33,13 +32,3 @@ order: 4
     </p>
   </div>
 </div>
-
-<hr style="margin: 2rem 0;">
-
-<h3>Related papers:</h3>
-<ul>
-  <li>
-    Kumar, T., <a href="https://doi.org/10.1016/j.jdeveco.2021.102738">"The housing quality, income, and human capital effects of subsidized homes in urban India."</a>
-    <em>Journal of Development Economics</em>, 2021.
-    [<a href="{{ '/housingecon.pdf' | relative_url }}">Pre-print</a>] [<a href="https://doi.org/10.7910/DVN/RSMVZJ">Data and code</a>] [<a href="{{ '/Appendices_hc.pdf' | relative_url }}">Appendices</a>]
-  </
