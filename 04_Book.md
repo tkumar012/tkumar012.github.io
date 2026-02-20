@@ -26,7 +26,7 @@ order: 4
     </p>
     <p>
       Order <a href="https://www.amazon.com/Building-Social-Mobility-Homeownership-Comparative/dp/1009636995/ref=tmm_pap_swatch_0">here</a>.<br>
-      Read a sample <a href="{{ '/writing_sample_kumar.pdf' | relative_url }}">here</a>.
+     
     </p>
   </div>
 </div>
