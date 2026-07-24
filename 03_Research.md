@@ -16,13 +16,15 @@ order: 3
   gtag('config', 'G-95H7WJPKDP');
 </script>
 
-["Democratizing bureaucracy: How can citizens demand accountability from bureaucrats?"](democratizing_bureaucracy.pdf) with G. Kruks-Wisner. *Best paper, Class and Inequality, APSA 2025.* Accepted, *World Politics.* 
+["Democratizing bureaucracy: How can citizens demand accountability from bureaucrats?"](democratizing_bureaucracy.pdf) with G. Kruks-Wisner.  Accepted, *World Politics.* 
+-*Best paper, Class and Inequality, APSA 2025.*
 
 ["Politics in the urban periphery: Citizen-led expansion and informality at the edges of India's cities."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560168) with A. Auerbach.  *Journal of Development Studies,* 2025
 
 
 ["When do local governments improve transparency? 
-Bureaucratic champions for open transit data in California"](https://journals.sagepub.com/doi/full/10.1177/10780874251357506) w/ I. Ratan, A. Post, and M. Sheth. *Paul Sabatier Award for the best paper on science, technology, and environmental politics, APSA 2022.* OnlineFirst, *Urban Affairs Review* 
+Bureaucratic champions for open transit data in California"](https://journals.sagepub.com/doi/full/10.1177/10780874251357506) w/ I. Ratan, A. Post, and M. Sheth.  OnlineFirst, *Urban Affairs Review* 
+-*Paul Sabatier Award for the best paper on science, technology, and environmental politics, APSA 2022.*
 
 Kumar, T. ["How the content of digital complaints shapes bureaucratic responsiveness in Mumbai."](https://onlinelibrary.wiley.com/doi/10.1111/gove.12889) (Open Access) *Governance.* 2024.
 
